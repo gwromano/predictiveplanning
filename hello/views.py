@@ -1,4 +1,3 @@
-from django import apps
 import requests
 from django.shortcuts import render
 from django.http import HttpResponse
@@ -7,7 +6,6 @@ from django.http import HttpResponse
 from .models import Greeting
 
 # Create your views here.
-@apps.route("/index.html", methods=["GET","POST"])
 def index(request):
     method = request.method
     #return HttpResponse('Hello from Python!')
@@ -15,7 +13,7 @@ def index(request):
     # print(r.text)
     # return HttpResponse('<pre>' + r.text + '</pre>')
     #return render(request, "index.html")
-    return render("index.html", method=method)
+    return render("about-us.html", method=method)
 
 
 def db(request):
