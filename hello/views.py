@@ -1,6 +1,6 @@
 from django import apps
 import requests
-from django.shortcuts import render, render_template
+from django.shortcuts import render
 from django.http import HttpResponse
 
 
@@ -15,7 +15,7 @@ def index(request):
     # print(r.text)
     # return HttpResponse('<pre>' + r.text + '</pre>')
     #return render(request, "index.html")
-    return render_template("index.html", method=method)
+    return render("index.html", method=method)
 
 
 def db(request):
