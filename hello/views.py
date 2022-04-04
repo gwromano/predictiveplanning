@@ -11,6 +11,7 @@ def index(request):
     # r = requests.get('https://httpbin.org/status/418')
     # print(r.text)
     # return HttpResponse('<pre>' + r.text + '</pre>')
+    #test
     return render(request, "index.html")
 
 
