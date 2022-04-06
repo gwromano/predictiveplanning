@@ -1,10 +1,14 @@
 from django.urls import path, include
 
+from django.views.generic import TemplateView
+
 from django.contrib import admin
+import urllib3
 
 admin.autodiscover()
 
 import hello.views
+
 
 # To add a new path, first import the app:
 # import blog
@@ -18,4 +22,6 @@ urlpatterns = [
     path("", hello.views.index, name="index"),
     path("db/", hello.views.db, name="db"),
     path("admin/", admin.site.urls),
+    urllib3(r'profile/',hello.views,name="profile")
+
 ]
