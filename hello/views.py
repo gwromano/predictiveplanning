@@ -1,6 +1,6 @@
 import requests
 from django.shortcuts import render
-from django.http import HttpResponse
+from django.http import HttpResponse, HttpResponseRedirect
 
 
 from .models import Greeting
@@ -12,6 +12,8 @@ def index(request):
     # print(r.text)
     # return HttpResponse('<pre>' + r.text + '</pre>')
     #test part 2  
+    if "makeOrder" in request.POST:
+        return HttpResponseRedirect(".")
     return render(request, "index.html")
 
 
