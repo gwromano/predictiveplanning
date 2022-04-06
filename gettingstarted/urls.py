@@ -1,9 +1,9 @@
+from django import urls
 from django.urls import path, include
 
 from django.views.generic import TemplateView
 
 from django.contrib import admin
-import urllib3
 
 admin.autodiscover()
 
@@ -22,6 +22,8 @@ urlpatterns = [
     path("", hello.views.index, name="index"),
     path("db/", hello.views.db, name="db"),
     path("admin/", admin.site.urls),
-    urllib3(r'profile/',hello.views,name="profile")
+    urls(r'^about-us/', TemplateView.as_view(template_name='about-us.html'),
+                      name='about-us'),
+    
 
 ]
