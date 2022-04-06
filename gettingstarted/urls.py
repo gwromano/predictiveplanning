@@ -23,6 +23,10 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("about-us/", TemplateView.as_view(template_name='about-us.html'),
                       name='about-us'),
+    path("make-order/", TemplateView.as_view(template_name='make-order.html'),
+                      name='make-order'),
+    path("order-history/", TemplateView.as_view(template_name='order-history.html'),
+                      name='order-history'),
     
 
 ]

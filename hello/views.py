@@ -11,9 +11,9 @@ def index(request):
     # r = requests.get('https://httpbin.org/status/418')
     # print(r.text)
     # return HttpResponse('<pre>' + r.text + '</pre>')
-    if "makeOrder" in request.POST:
-        #return HttpResponseRedirect(".")
-        return render(request, "about-us.html")
+    # if "makeOrder" in request.POST:
+    #     #return HttpResponseRedirect(".")
+    #     return render(request, "about-us.html")
     return render(request, "index.html")
 
 
