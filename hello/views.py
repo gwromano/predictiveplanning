@@ -1,5 +1,5 @@
 import requests
-from django.shortcuts import render
+from django.shortcuts import redirect, render
 from django.http import HttpResponse, HttpResponseRedirect
 
 
@@ -14,7 +14,7 @@ def index(request):
     #test part 2  
     if "makeOrder" in request.POST:
         #return HttpResponseRedirect(".")
-        return render(request, "about-us.html")
+        return redirect(request, "about-us.html")
     return render(request, "index.html")
 
 
