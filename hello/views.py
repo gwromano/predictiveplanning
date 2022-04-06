@@ -13,7 +13,8 @@ def index(request):
     # return HttpResponse('<pre>' + r.text + '</pre>')
     #test part 2  
     if "makeOrder" in request.POST:
-        return HttpResponseRedirect(".")
+        #return HttpResponseRedirect(".")
+        return render(request, "about-us.html")
     return render(request, "index.html")
 
 
