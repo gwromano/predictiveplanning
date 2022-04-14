@@ -154,11 +154,11 @@
       </div>
 
       <!-- Login -->
-      <h2>Log In</h2>
+      <h2> <p class="bio"><span class="w3-padding w3-margin" style="font-weight: bolder; color: #fdf5e6">Login</span></p><br></h2>
       <form method="post">
         {% csrf_token %}
         {{ form.as_p }}
-        <button type="submit">Log In</button>
+        <button type="submit" class="w3-button w3-sand w3-hover-pale-green link border">Log In</button>
       </form>
       
       <!-- Links section 2 -->
