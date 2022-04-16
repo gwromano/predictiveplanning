@@ -3,3 +3,10 @@ gunicorn
 django-heroku
 requests
 flask
+Pillow
+django-extensions
+django_on_heroku
+python-dotenv
+python-decouple
+django-storages
+boto3
