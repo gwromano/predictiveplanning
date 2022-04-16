@@ -3,7 +3,7 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href = "https://www.w3schools.com/w3css/4/w3.css">  
-<title>Links website</title>
+<title>Predictive Planning</title>
 <style>
 	body { background: #232526;  /* fallback for old browsers */
         background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
@@ -280,6 +280,11 @@ button:hover {
         <a href="{% url 'order-history' %}" class="w3-button w3-sand w3-hover-pale-green link border">Order History</a>
         <a href="{% url 'about-us' %}" class="w3-button w3-sand w3-hover-pale-green link border">About Us</a>-->
 </div>
+
+<a href="{% url 'login' %}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Login</a><br><br>
+        <a href="{% url 'make-order' %}" class="w3-button w3-sand w3-hover-pale-green link border">Generate Data</a>        
+        <a href="{% url 'order-history' %}" class="w3-button w3-sand w3-hover-pale-green link border">Order History</a>
+        <a href="{% url 'about-us' %}" class="w3-button w3-sand w3-hover-pale-green link border">About Us</a>
 
 <script>
 // Get the modal
