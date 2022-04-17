@@ -2,7 +2,6 @@ django
 gunicorn
 django-heroku
 requests
-<<<<<<< HEAD
 flask
 Pillow
 django-extensions
@@ -11,6 +10,3 @@ python-dotenv
 python-decouple
 django-storages
 boto3
-=======
-flask
->>>>>>> parent of bbe5759 (Update requirements.txt)
