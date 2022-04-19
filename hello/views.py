@@ -18,7 +18,7 @@ def index(request):
     #     return render(request, "about-us.html")
     if request.method == 'POST' and 'run_script' in request.POST:
         runArray()
-        return render(request, "make-order.html")
+        
     return render(request, "index.html")
 
 
