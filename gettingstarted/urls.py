@@ -26,8 +26,8 @@ urlpatterns = [
     #                  name='login'),
     path("about-us/", TemplateView.as_view(template_name='about-us.html'),
                       name='about-us'),
-    path("make-order/", TemplateView.as_view(template_name='make-order.html'),
-                      name='make-order'),
+    path("make-order/", TemplateView.as_view(template_name='makeOrder.html'),
+                      name='makeOrder'),
     path("order-history/", TemplateView.as_view(template_name='order-history.html'),
                       name='order-history'),
     
