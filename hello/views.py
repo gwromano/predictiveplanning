@@ -1,7 +1,9 @@
+#from django.urls import reverse
 import requests
 from django.shortcuts import redirect, render
 from django.http import HttpResponse, HttpResponseRedirect
 
+from hello.test12 import runArray
 
 from .models import Greeting
 
@@ -14,6 +16,9 @@ def index(request):
     # if "makeOrder" in request.POST:
     #     #return HttpResponseRedirect(".")
     #     return render(request, "about-us.html")
+    if request.method == 'POST' and 'run_script' in request.POST:
+        runArray()
+        return render(request, "make-order.html")
     return render(request, "index.html")
 
 
