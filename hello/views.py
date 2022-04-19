@@ -16,6 +16,8 @@ def index(request):
     #     return render(request, "about-us.html")
     return render(request, "index.html")
 
+def makeOrder(request):
+    return render(request, "about-us.html")
 
 
 def db(request):
