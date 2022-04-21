@@ -164,16 +164,8 @@
         });
       </script>-->
 
-      <script>
-        $('body').terminal({
-            hello: function(what) {
-                this.echo('Hello, ' + what + '. Welcome.');
-                this.exec('/run.sh');
-            }
-        }, {
-            greetings: 'My First Web Terminal'
-        });
-      </script>
+      <script src="termynal.js" data-termynal-container="#termynal"></script>
+      
 
       <!-- Links section 1 -->
       <div class="links-container">
