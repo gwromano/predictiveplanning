@@ -176,7 +176,7 @@
       </div>
 
       <br><br><br>
-      <a href="{% url 'make-order' %}" class="w3-button w3-sand w3-hover-pale-green link border">Start Order</a> 
+      <!-- <a href="{% url 'make-order' %}" class="w3-button w3-sand w3-hover-pale-green link border">Start Order</a>  -->
       <!--<script src="termynal.js" data-termynal-container="#termynal"></script>-->
       <br><br><br>
 
@@ -187,7 +187,7 @@
       
       <form action="{% url 'terminal' %}" method="POST">
         {% csrf_token %}
-        <button type="submit">Start Order</button>
+        <button type="submit" class="w3-button w3-sand w3-hover-pale-green link border" style="height:60px;width:500px;font-size:30px" >Generate Data</button>
       </form>
 
       <!-- Links section 2 -->

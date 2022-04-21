@@ -1,0 +1,15 @@
+Item           January   Febuary   March     April     May       June      July      August    September October   November  December  
+toilet paper   11        10        13        19        15        14        14        11        10        14        15        19        
+paper towel    15        16        16        17        15        21        16        21        20        20        16        24        
+cleaner        3         4         4         2         2         3         4         4         4         3         3         2         
+plastic bags   151       198       172       149       107       205       143       136       115       184       185       158       
+light bulbs    18        19        17        18        17        19        15        15        16        15        17        15        
+box cutters    35        41        29        40        47        36        22        20        26        37        26        26        
+office chair   4         3         2         2         3         2         4         3         2         3         2         3         
+pens           50        70        68        50        61        65        52        73        52        69        74        73        
+printer paper  11        7         8         8         6         8         10        9         11        8         11        8         
+blank badges   166       184       182       182       126       151       102       157       114       188       141       101       
+scanner batt   6         5         8         9         7         8         8         5         8         6         7         9         
+meat trays     380       429       379       320       382       499       336       497       474       413       499       424       
+produce bags   23        26        29        24        25        27        20        24        23        26        28        28        
+soap           19        17        15        19        19        15        17        15        15        19        18        16        

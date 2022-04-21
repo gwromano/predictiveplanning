@@ -1,0 +1,1194 @@
+Item,Item ID,Day,Quantity,Order Number
+paper towel,2,01-09-2016,154,1
+light bulbs,5,01-09-2016,133,1
+box cutters,6,01-09-2016,266,1
+pens,8,01-09-2016,497,1
+photo paper,18,01-09-2016,5866,1
+produce bags,13,01-11-2016,168,2
+soap,14,01-12-2016,112,3
+plastic wrap,19,01-13-2016,182,4
+cleaner,3,01-14-2016,21,5
+office chair,7,01-14-2016,21,5
+meat trays,12,01-14-2016,2142,5
+water bottles,16,01-14-2016,693,5
+keyboards,17,01-14-2016,35,5
+toilet paper,1,01-15-2016,77,6
+paper towel,2,01-15-2016,154,6
+plastic bags,4,01-15-2016,875,6
+box cutters,6,01-15-2016,266,6
+pens,8,01-15-2016,497,6
+blank badges,10,01-15-2016,763,6
+photo paper,18,01-15-2016,5866,6
+light bulbs,5,01-16-2016,133,7
+printer paper,9,01-17-2016,42,8
+scanner batt,11,01-17-2016,35,8
+produce bags,13,01-17-2016,168,8
+soap,14,01-17-2016,112,8
+plastic wrap,19,01-17-2016,182,8
+wrenches,15,01-18-2016,14,9
+meat trays,12,01-19-2016,2142,10
+water bottles,16,01-19-2016,693,10
+keyboards,17,01-19-2016,35,10
+cleaner,3,01-20-2016,21,11
+office chair,7,01-20-2016,21,11
+blank badges,10,01-20-2016,763,11
+toilet paper,1,01-21-2016,77,12
+paper towel,2,01-21-2016,154,12
+plastic bags,4,01-21-2016,875,12
+light bulbs,5,01-21-2016,133,12
+box cutters,6,01-21-2016,266,12
+pens,8,01-21-2016,497,12
+photo paper,18,01-21-2016,5866,12
+printer paper,9,01-23-2016,42,13
+scanner batt,11,01-23-2016,35,13
+produce bags,13,01-23-2016,168,13
+soap,14,01-23-2016,112,13
+wrenches,15,01-24-2016,14,14
+water bottles,16,01-24-2016,693,14
+plastic wrap,19,01-24-2016,182,14
+cleaner,3,01-25-2016,21,15
+office chair,7,01-25-2016,21,15
+pens,8,01-25-2016,497,15
+blank badges,10,01-25-2016,763,15
+meat trays,12,01-25-2016,2142,15
+keyboards,17,01-25-2016,35,15
+photo paper,18,01-25-2016,5866,15
+toilet paper,1,01-26-2016,77,16
+paper towel,2,01-26-2016,154,16
+plastic bags,4,01-26-2016,875,16
+light bulbs,5,01-26-2016,133,16
+box cutters,6,01-26-2016,266,16
+printer paper,9,01-28-2016,42,17
+scanner batt,11,01-28-2016,35,17
+produce bags,13,01-28-2016,168,17
+soap,14,01-29-2016,112,18
+plastic wrap,19,01-29-2016,182,18
+water bottles,16,01-30-2016,693,19
+pens,8,01-31-2016,497,20
+blank badges,10,01-31-2016,763,20
+meat trays,12,01-31-2016,2142,20
+wrenches,15,01-31-2016,14,20
+keyboards,17,01-31-2016,35,20
+toilet paper,1,02-01-2016,77,21
+paper towel,2,02-01-2016,154,21
+cleaner,3,02-01-2016,21,21
+plastic bags,4,02-01-2016,875,21
+light bulbs,5,02-01-2016,133,21
+box cutters,6,02-01-2016,266,21
+office chair,7,02-01-2016,21,21
+photo paper,18,02-01-2016,5866,21
+printer paper,9,02-02-2016,42,22
+scanner batt,11,02-02-2016,35,22
+produce bags,13,02-02-2016,168,22
+soap,14,02-03-2016,112,23
+plastic wrap,19,02-03-2016,182,23
+meat trays,12,02-05-2016,2142,24
+water bottles,16,02-05-2016,693,24
+keyboards,17,02-05-2016,35,24
+plastic bags,4,02-06-2016,875,25
+pens,8,02-06-2016,497,25
+blank badges,10,02-06-2016,763,25
+wrenches,15,02-06-2016,14,25
+photo paper,18,02-06-2016,5866,25
+toilet paper,1,02-07-2016,77,26
+paper towel,2,02-07-2016,154,26
+cleaner,3,02-07-2016,21,26
+light bulbs,5,02-07-2016,133,26
+box cutters,6,02-07-2016,266,26
+office chair,7,02-07-2016,21,26
+produce bags,13,02-08-2016,168,27
+printer paper,9,02-09-2016,42,28
+scanner batt,11,02-09-2016,35,28
+soap,14,02-09-2016,112,28
+plastic wrap,19,02-09-2016,182,28
+meat trays,12,02-10-2016,2142,29
+water bottles,16,02-10-2016,693,29
+keyboards,17,02-10-2016,35,29
+plastic bags,4,02-11-2016,875,30
+pens,8,02-11-2016,497,30
+blank badges,10,02-11-2016,763,30
+photo paper,18,02-11-2016,5866,30
+toilet paper,1,02-12-2016,77,31
+paper towel,2,02-12-2016,154,31
+light bulbs,5,02-12-2016,133,31
+box cutters,6,02-12-2016,266,31
+wrenches,15,02-12-2016,14,31
+cleaner,3,02-13-2016,21,32
+office chair,7,02-13-2016,21,32
+produce bags,13,02-14-2016,168,33
+printer paper,9,02-15-2016,48,34
+scanner batt,11,02-15-2016,40,34
+meat trays,12,02-15-2016,2448,34
+soap,14,02-15-2016,128,34
+water bottles,16,02-15-2016,792,34
+plastic wrap,19,02-15-2016,208,34
+paper towel,2,02-16-2016,176,35
+plastic bags,4,02-16-2016,1000,35
+box cutters,6,02-16-2016,304,35
+pens,8,02-16-2016,568,35
+blank badges,10,02-16-2016,872,35
+keyboards,17,02-16-2016,40,35
+photo paper,18,02-16-2016,6704,35
+toilet paper,1,02-17-2016,88,36
+cleaner,3,02-17-2016,24,36
+light bulbs,5,02-17-2016,152,36
+office chair,7,02-17-2016,24,36
+wrenches,15,02-17-2016,16,36
+produce bags,13,02-18-2016,192,37
+printer paper,9,02-19-2016,48,38
+scanner batt,11,02-19-2016,40,38
+soap,14,02-19-2016,128,38
+plastic wrap,19,02-19-2016,208,38
+meat trays,12,02-21-2016,2448,39
+water bottles,16,02-21-2016,792,39
+pens,8,02-22-2016,497,40
+blank badges,10,02-22-2016,763,40
+keyboards,17,02-22-2016,35,40
+photo paper,18,02-22-2016,5866,40
+toilet paper,1,02-23-2016,77,41
+paper towel,2,02-23-2016,154,41
+plastic bags,4,02-23-2016,875,41
+light bulbs,5,02-23-2016,133,41
+box cutters,6,02-23-2016,266,41
+cleaner,3,02-24-2016,21,42
+office chair,7,02-24-2016,21,42
+produce bags,13,02-24-2016,168,42
+wrenches,15,02-24-2016,14,42
+printer paper,9,02-26-2016,42,43
+scanner batt,11,02-26-2016,35,43
+soap,14,02-26-2016,112,43
+plastic wrap,19,02-26-2016,182,43
+plastic bags,4,02-27-2016,875,44
+pens,8,02-27-2016,497,44
+blank badges,10,02-27-2016,763,44
+meat trays,12,02-27-2016,2142,44
+water bottles,16,02-27-2016,693,44
+keyboards,17,02-27-2016,35,44
+photo paper,18,02-27-2016,5866,44
+paper towel,2,02-28-2016,154,45
+box cutters,6,02-28-2016,266,45
+toilet paper,1,02-29-2016,77,46
+light bulbs,5,02-29-2016,133,46
+cleaner,3,03-01-2016,21,47
+office chair,7,03-01-2016,21,47
+produce bags,13,03-01-2016,168,47
+wrenches,15,03-02-2016,14,48
+printer paper,9,03-03-2016,42,49
+scanner batt,11,03-03-2016,35,49
+soap,14,03-03-2016,112,49
+plastic wrap,19,03-03-2016,182,49
+plastic bags,4,03-04-2016,875,50
+pens,8,03-04-2016,497,50
+blank badges,10,03-04-2016,763,50
+meat trays,12,03-04-2016,2142,50
+water bottles,16,03-04-2016,693,50
+keyboards,17,03-04-2016,35,50
+photo paper,18,03-04-2016,5866,50
+toilet paper,1,03-05-2016,77,51
+paper towel,2,03-05-2016,154,51
+light bulbs,5,03-05-2016,133,51
+box cutters,6,03-05-2016,266,51
+produce bags,13,03-06-2016,168,52
+cleaner,3,03-07-2016,21,53
+office chair,7,03-07-2016,21,53
+soap,14,03-08-2016,112,54
+wrenches,15,03-08-2016,14,54
+plastic wrap,19,03-08-2016,182,54
+printer paper,9,03-09-2016,42,55
+scanner batt,11,03-09-2016,35,55
+plastic bags,4,03-10-2016,875,56
+box cutters,6,03-10-2016,266,56
+pens,8,03-10-2016,497,56
+blank badges,10,03-10-2016,763,56
+meat trays,12,03-10-2016,2142,56
+water bottles,16,03-10-2016,693,56
+keyboards,17,03-10-2016,35,56
+photo paper,18,03-10-2016,5866,56
+toilet paper,1,03-11-2016,77,57
+paper towel,2,03-11-2016,154,57
+light bulbs,5,03-11-2016,133,57
+produce bags,13,03-12-2016,168,58
+cleaner,3,03-13-2016,21,59
+office chair,7,03-13-2016,21,59
+soap,14,03-13-2016,112,59
+wrenches,15,03-13-2016,14,59
+plastic wrap,19,03-13-2016,182,59
+printer paper,9,03-14-2016,42,60
+scanner batt,11,03-14-2016,35,60
+plastic bags,4,03-15-2016,875,61
+pens,8,03-15-2016,497,61
+blank badges,10,03-15-2016,763,61
+meat trays,12,03-15-2016,2142,61
+water bottles,16,03-15-2016,693,61
+photo paper,18,03-15-2016,5866,61
+paper towel,2,03-16-2016,154,62
+light bulbs,5,03-16-2016,133,62
+box cutters,6,03-16-2016,266,62
+keyboards,17,03-16-2016,35,62
+toilet paper,1,03-17-2016,88,63
+produce bags,13,03-17-2016,192,63
+cleaner,3,03-18-2016,24,64
+office chair,7,03-18-2016,24,64
+soap,14,03-18-2016,128,64
+plastic wrap,19,03-18-2016,208,64
+printer paper,9,03-19-2016,48,65
+blank badges,10,03-19-2016,872,65
+scanner batt,11,03-19-2016,40,65
+meat trays,12,03-19-2016,2448,65
+wrenches,15,03-19-2016,16,65
+water bottles,16,03-19-2016,792,65
+paper towel,2,03-20-2016,176,66
+plastic bags,4,03-20-2016,1000,66
+box cutters,6,03-20-2016,304,66
+pens,8,03-20-2016,568,66
+keyboards,17,03-20-2016,40,66
+photo paper,18,03-20-2016,6704,66
+light bulbs,5,03-21-2016,152,67
+toilet paper,1,03-22-2016,88,68
+produce bags,13,03-23-2016,192,69
+soap,14,03-24-2016,112,70
+cleaner,3,03-25-2016,21,71
+office chair,7,03-25-2016,21,71
+plastic wrap,19,03-25-2016,182,71
+plastic bags,4,03-26-2016,875,72
+pens,8,03-26-2016,497,72
+printer paper,9,03-26-2016,42,72
+blank badges,10,03-26-2016,763,72
+scanner batt,11,03-26-2016,35,72
+meat trays,12,03-26-2016,2142,72
+wrenches,15,03-26-2016,14,72
+water bottles,16,03-26-2016,693,72
+photo paper,18,03-26-2016,5866,72
+paper towel,2,03-27-2016,154,73
+light bulbs,5,03-27-2016,133,73
+box cutters,6,03-27-2016,266,73
+keyboards,17,03-27-2016,35,73
+toilet paper,1,03-28-2016,77,74
+produce bags,13,03-29-2016,168,75
+soap,14,03-29-2016,112,75
+cleaner,3,03-30-2016,21,76
+office chair,7,03-30-2016,21,76
+plastic wrap,19,03-30-2016,182,76
+plastic bags,4,03-31-2016,875,77
+pens,8,03-31-2016,497,77
+printer paper,9,03-31-2016,42,77
+blank badges,10,03-31-2016,763,77
+scanner batt,11,03-31-2016,35,77
+meat trays,12,03-31-2016,2142,77
+water bottles,16,03-31-2016,693,77
+photo paper,18,03-31-2016,5866,77
+paper towel,2,04-01-2016,154,78
+box cutters,6,04-01-2016,266,78
+wrenches,15,04-01-2016,14,78
+light bulbs,5,04-02-2016,133,79
+keyboards,17,04-02-2016,35,79
+toilet paper,1,04-03-2016,77,80
+produce bags,13,04-04-2016,168,81
+soap,14,04-04-2016,112,81
+printer paper,9,04-05-2016,42,82
+blank badges,10,04-05-2016,763,82
+meat trays,12,04-05-2016,2142,82
+water bottles,16,04-05-2016,693,82
+plastic wrap,19,04-05-2016,182,82
+paper towel,2,04-06-2016,154,83
+cleaner,3,04-06-2016,21,83
+plastic bags,4,04-06-2016,875,83
+box cutters,6,04-06-2016,266,83
+office chair,7,04-06-2016,21,83
+pens,8,04-06-2016,497,83
+scanner batt,11,04-06-2016,35,83
+photo paper,18,04-06-2016,5866,83
+light bulbs,5,04-07-2016,133,84
+wrenches,15,04-07-2016,14,84
+keyboards,17,04-07-2016,35,84
+toilet paper,1,04-09-2016,77,85
+produce bags,13,04-10-2016,168,86
+soap,14,04-10-2016,112,86
+plastic wrap,19,04-10-2016,182,86
+blank badges,10,04-11-2016,763,87
+meat trays,12,04-11-2016,2142,87
+water bottles,16,04-11-2016,693,87
+photo paper,18,04-11-2016,5866,87
+paper towel,2,04-12-2016,154,88
+cleaner,3,04-12-2016,21,88
+plastic bags,4,04-12-2016,875,88
+box cutters,6,04-12-2016,266,88
+office chair,7,04-12-2016,21,88
+pens,8,04-12-2016,497,88
+printer paper,9,04-12-2016,42,88
+scanner batt,11,04-12-2016,35,88
+light bulbs,5,04-13-2016,133,89
+wrenches,15,04-13-2016,14,89
+keyboards,17,04-13-2016,35,89
+toilet paper,1,04-14-2016,88,90
+produce bags,13,04-14-2016,192,90
+meat trays,12,04-15-2016,2448,91
+soap,14,04-15-2016,128,91
+plastic wrap,19,04-15-2016,208,91
+plastic bags,4,04-16-2016,1000,92
+pens,8,04-16-2016,568,92
+printer paper,9,04-16-2016,48,92
+blank badges,10,04-16-2016,872,92
+scanner batt,11,04-16-2016,40,92
+water bottles,16,04-16-2016,792,92
+photo paper,18,04-16-2016,6704,92
+paper towel,2,04-17-2016,176,93
+cleaner,3,04-17-2016,24,93
+box cutters,6,04-17-2016,304,93
+office chair,7,04-17-2016,24,93
+light bulbs,5,04-18-2016,152,94
+keyboards,17,04-18-2016,40,94
+wrenches,15,04-19-2016,16,95
+toilet paper,1,04-20-2016,88,96
+produce bags,13,04-21-2016,168,97
+soap,14,04-21-2016,112,97
+plastic wrap,19,04-21-2016,182,97
+plastic bags,4,04-22-2016,875,98
+pens,8,04-22-2016,497,98
+printer paper,9,04-22-2016,42,98
+blank badges,10,04-22-2016,763,98
+scanner batt,11,04-22-2016,35,98
+meat trays,12,04-22-2016,2142,98
+water bottles,16,04-22-2016,693,98
+photo paper,18,04-22-2016,5866,98
+paper towel,2,04-23-2016,154,99
+cleaner,3,04-23-2016,21,99
+box cutters,6,04-23-2016,266,99
+office chair,7,04-23-2016,21,99
+light bulbs,5,04-24-2016,133,100
+keyboards,17,04-24-2016,35,100
+produce bags,13,04-26-2016,168,101
+wrenches,15,04-26-2016,14,101
+toilet paper,1,04-27-2016,77,102
+soap,14,04-27-2016,112,102
+plastic wrap,19,04-27-2016,182,102
+plastic bags,4,04-28-2016,875,103
+pens,8,04-28-2016,497,103
+printer paper,9,04-28-2016,42,103
+blank badges,10,04-28-2016,763,103
+meat trays,12,04-28-2016,2142,103
+water bottles,16,04-28-2016,693,103
+photo paper,18,04-28-2016,5866,103
+paper towel,2,04-29-2016,154,104
+light bulbs,5,04-29-2016,133,104
+box cutters,6,04-29-2016,266,104
+scanner batt,11,04-29-2016,35,104
+cleaner,3,04-30-2016,21,105
+office chair,7,04-30-2016,21,105
+keyboards,17,04-30-2016,35,105
+produce bags,13,05-01-2016,168,106
+toilet paper,1,05-02-2016,77,107
+soap,14,05-02-2016,112,107
+wrenches,15,05-02-2016,14,107
+plastic wrap,19,05-02-2016,182,107
+plastic bags,4,05-03-2016,875,108
+blank badges,10,05-03-2016,763,108
+meat trays,12,05-03-2016,2142,108
+water bottles,16,05-03-2016,693,108
+photo paper,18,05-03-2016,5866,108
+pens,8,05-04-2016,497,109
+printer paper,9,05-04-2016,42,109
+paper towel,2,05-05-2016,154,110
+light bulbs,5,05-05-2016,133,110
+box cutters,6,05-05-2016,266,110
+scanner batt,11,05-05-2016,35,110
+cleaner,3,05-06-2016,21,111
+office chair,7,05-06-2016,21,111
+keyboards,17,05-06-2016,35,111
+produce bags,13,05-07-2016,168,112
+toilet paper,1,05-08-2016,77,113
+plastic bags,4,05-08-2016,875,113
+pens,8,05-08-2016,497,113
+blank badges,10,05-08-2016,763,113
+meat trays,12,05-08-2016,2142,113
+soap,14,05-08-2016,112,113
+wrenches,15,05-08-2016,14,113
+water bottles,16,05-08-2016,693,113
+photo paper,18,05-08-2016,5866,113
+plastic wrap,19,05-08-2016,182,113
+box cutters,6,05-09-2016,304,114
+printer paper,9,05-09-2016,48,114
+paper towel,2,05-10-2016,176,115
+light bulbs,5,05-10-2016,152,115
+scanner batt,11,05-10-2016,40,115
+cleaner,3,05-11-2016,24,116
+office chair,7,05-11-2016,24,116
+keyboards,17,05-11-2016,40,116
+produce bags,13,05-12-2016,192,117
+toilet paper,1,05-13-2016,88,118
+soap,14,05-13-2016,128,118
+plastic wrap,19,05-13-2016,208,118
+plastic bags,4,05-14-2016,1000,119
+pens,8,05-14-2016,568,119
+blank badges,10,05-14-2016,872,119
+meat trays,12,05-14-2016,2448,119
+wrenches,15,05-14-2016,16,119
+water bottles,16,05-14-2016,792,119
+photo paper,18,05-14-2016,6704,119
+paper towel,2,05-15-2016,176,120
+box cutters,6,05-15-2016,304,120
+printer paper,9,05-15-2016,48,120
+light bulbs,5,05-16-2016,133,121
+scanner batt,11,05-16-2016,35,121
+cleaner,3,05-17-2016,21,122
+office chair,7,05-17-2016,21,122
+keyboards,17,05-17-2016,35,122
+produce bags,13,05-18-2016,168,123
+toilet paper,1,05-19-2016,77,124
+soap,14,05-19-2016,112,124
+plastic wrap,19,05-19-2016,182,124
+plastic bags,4,05-20-2016,875,125
+pens,8,05-20-2016,497,125
+blank badges,10,05-20-2016,763,125
+meat trays,12,05-20-2016,2142,125
+water bottles,16,05-20-2016,693,125
+photo paper,18,05-20-2016,5866,125
+wrenches,15,05-21-2016,14,126
+paper towel,2,05-22-2016,154,127
+light bulbs,5,05-22-2016,133,127
+box cutters,6,05-22-2016,266,127
+printer paper,9,05-22-2016,42,127
+scanner batt,11,05-22-2016,35,127
+keyboards,17,05-23-2016,35,128
+toilet paper,1,05-24-2016,77,129
+cleaner,3,05-24-2016,21,129
+office chair,7,05-24-2016,21,129
+produce bags,13,05-24-2016,168,129
+soap,14,05-24-2016,112,129
+plastic wrap,19,05-24-2016,182,129
+plastic bags,4,05-25-2016,875,130
+pens,8,05-25-2016,497,130
+blank badges,10,05-25-2016,763,130
+meat trays,12,05-25-2016,2142,130
+water bottles,16,05-25-2016,693,130
+photo paper,18,05-25-2016,5866,130
+box cutters,6,05-27-2016,266,131
+scanner batt,11,05-27-2016,35,131
+wrenches,15,05-27-2016,14,131
+paper towel,2,05-28-2016,154,132
+light bulbs,5,05-28-2016,133,132
+printer paper,9,05-28-2016,42,132
+keyboards,17,05-29-2016,35,133
+cleaner,3,05-30-2016,21,134
+office chair,7,05-30-2016,21,134
+produce bags,13,05-30-2016,168,134
+soap,14,05-30-2016,112,134
+plastic wrap,19,05-30-2016,182,134
+toilet paper,1,05-31-2016,77,135
+plastic bags,4,05-31-2016,875,135
+pens,8,05-31-2016,497,135
+blank badges,10,05-31-2016,763,135
+meat trays,12,05-31-2016,2142,135
+water bottles,16,05-31-2016,693,135
+photo paper,18,05-31-2016,5866,135
+light bulbs,5,06-01-2016,133,136
+box cutters,6,06-01-2016,266,136
+scanner batt,11,06-01-2016,35,136
+paper towel,2,06-02-2016,154,137
+printer paper,9,06-02-2016,42,137
+wrenches,15,06-02-2016,14,137
+keyboards,17,06-03-2016,35,138
+produce bags,13,06-04-2016,168,139
+cleaner,3,06-05-2016,21,140
+office chair,7,06-05-2016,21,140
+meat trays,12,06-05-2016,2142,140
+soap,14,06-05-2016,112,140
+photo paper,18,06-05-2016,5866,140
+plastic wrap,19,06-05-2016,182,140
+toilet paper,1,06-06-2016,77,141
+plastic bags,4,06-06-2016,875,141
+pens,8,06-06-2016,497,141
+blank badges,10,06-06-2016,763,141
+water bottles,16,06-06-2016,693,141
+box cutters,6,06-07-2016,266,142
+paper towel,2,06-08-2016,154,143
+light bulbs,5,06-08-2016,133,143
+printer paper,9,06-08-2016,42,143
+scanner batt,11,06-08-2016,35,143
+wrenches,15,06-08-2016,14,143
+produce bags,13,06-09-2016,168,144
+keyboards,17,06-09-2016,35,144
+plastic wrap,19,06-09-2016,182,144
+cleaner,3,06-10-2016,21,145
+office chair,7,06-10-2016,21,145
+blank badges,10,06-10-2016,763,145
+meat trays,12,06-10-2016,2142,145
+soap,14,06-10-2016,112,145
+water bottles,16,06-10-2016,693,145
+photo paper,18,06-10-2016,5866,145
+toilet paper,1,06-11-2016,77,146
+plastic bags,4,06-11-2016,875,146
+pens,8,06-11-2016,497,146
+light bulbs,5,06-13-2016,133,147
+box cutters,6,06-13-2016,266,147
+paper towel,2,06-14-2016,154,148
+printer paper,9,06-14-2016,42,148
+scanner batt,11,06-14-2016,35,148
+produce bags,13,06-15-2016,168,149
+wrenches,15,06-15-2016,14,149
+keyboards,17,06-15-2016,35,149
+toilet paper,1,06-16-2016,77,150
+plastic bags,4,06-16-2016,875,150
+pens,8,06-16-2016,497,150
+blank badges,10,06-16-2016,763,150
+meat trays,12,06-16-2016,2142,150
+soap,14,06-16-2016,112,150
+water bottles,16,06-16-2016,693,150
+photo paper,18,06-16-2016,5866,150
+plastic wrap,19,06-16-2016,182,150
+cleaner,3,06-17-2016,21,151
+office chair,7,06-17-2016,21,151
+paper towel,2,06-18-2016,154,152
+light bulbs,5,06-18-2016,133,152
+box cutters,6,06-18-2016,266,152
+printer paper,9,06-19-2016,42,153
+scanner batt,11,06-19-2016,35,153
+plastic bags,4,06-21-2016,1000,154
+blank badges,10,06-21-2016,872,154
+meat trays,12,06-21-2016,2448,154
+produce bags,13,06-21-2016,192,154
+soap,14,06-21-2016,128,154
+wrenches,15,06-21-2016,16,154
+water bottles,16,06-21-2016,792,154
+keyboards,17,06-21-2016,40,154
+photo paper,18,06-21-2016,6704,154
+plastic wrap,19,06-21-2016,208,154
+toilet paper,1,06-22-2016,88,155
+cleaner,3,06-22-2016,24,155
+office chair,7,06-22-2016,24,155
+pens,8,06-22-2016,568,155
+box cutters,6,06-23-2016,304,156
+paper towel,2,06-24-2016,176,157
+light bulbs,5,06-24-2016,152,157
+printer paper,9,06-24-2016,48,157
+scanner batt,11,06-24-2016,40,157
+produce bags,13,06-26-2016,192,158
+keyboards,17,06-26-2016,40,158
+plastic wrap,19,06-26-2016,208,158
+plastic bags,4,06-27-2016,875,159
+blank badges,10,06-27-2016,763,159
+meat trays,12,06-27-2016,2142,159
+soap,14,06-27-2016,112,159
+wrenches,15,06-27-2016,14,159
+water bottles,16,06-27-2016,693,159
+photo paper,18,06-27-2016,5866,159
+toilet paper,1,06-28-2016,77,160
+pens,8,06-28-2016,497,160
+cleaner,3,06-29-2016,21,161
+office chair,7,06-29-2016,21,161
+paper towel,2,06-30-2016,154,162
+light bulbs,5,06-30-2016,133,162
+box cutters,6,06-30-2016,266,162
+printer paper,9,07-01-2016,42,163
+scanner batt,11,07-01-2016,35,163
+meat trays,12,07-02-2016,2142,164
+produce bags,13,07-02-2016,168,164
+soap,14,07-02-2016,112,164
+photo paper,18,07-02-2016,5866,164
+toilet paper,1,07-03-2016,77,165
+plastic bags,4,07-03-2016,875,165
+pens,8,07-03-2016,497,165
+blank badges,10,07-03-2016,763,165
+wrenches,15,07-03-2016,14,165
+water bottles,16,07-03-2016,693,165
+keyboards,17,07-03-2016,35,165
+plastic wrap,19,07-03-2016,182,165
+cleaner,3,07-04-2016,21,166
+box cutters,6,07-04-2016,266,166
+office chair,7,07-04-2016,21,166
+paper towel,2,07-05-2016,154,167
+light bulbs,5,07-05-2016,133,167
+scanner batt,11,07-06-2016,35,168
+printer paper,9,07-07-2016,42,169
+blank badges,10,07-08-2016,763,170
+meat trays,12,07-08-2016,2142,170
+produce bags,13,07-08-2016,168,170
+soap,14,07-08-2016,112,170
+photo paper,18,07-08-2016,5866,170
+toilet paper,1,07-09-2016,77,171
+plastic bags,4,07-09-2016,875,171
+pens,8,07-09-2016,497,171
+water bottles,16,07-09-2016,693,171
+keyboards,17,07-09-2016,35,171
+plastic wrap,19,07-09-2016,182,171
+box cutters,6,07-10-2016,266,172
+wrenches,15,07-10-2016,14,172
+paper towel,2,07-11-2016,154,173
+cleaner,3,07-11-2016,21,173
+light bulbs,5,07-11-2016,133,173
+office chair,7,07-11-2016,21,173
+scanner batt,11,07-11-2016,35,173
+printer paper,9,07-12-2016,42,174
+meat trays,12,07-13-2016,2142,175
+plastic bags,4,07-14-2016,875,176
+pens,8,07-14-2016,497,176
+blank badges,10,07-14-2016,763,176
+produce bags,13,07-14-2016,168,176
+soap,14,07-14-2016,112,176
+water bottles,16,07-14-2016,693,176
+keyboards,17,07-14-2016,35,176
+photo paper,18,07-14-2016,5866,176
+plastic wrap,19,07-14-2016,182,176
+toilet paper,1,07-15-2016,77,177
+box cutters,6,07-16-2016,266,178
+wrenches,15,07-16-2016,14,178
+paper towel,2,07-17-2016,154,179
+cleaner,3,07-17-2016,21,179
+light bulbs,5,07-17-2016,133,179
+office chair,7,07-17-2016,21,179
+printer paper,9,07-18-2016,42,180
+scanner batt,11,07-18-2016,35,180
+plastic bags,4,07-19-2016,875,181
+pens,8,07-19-2016,497,181
+blank badges,10,07-19-2016,763,181
+meat trays,12,07-19-2016,2142,181
+produce bags,13,07-19-2016,168,181
+soap,14,07-19-2016,112,181
+water bottles,16,07-19-2016,693,181
+keyboards,17,07-19-2016,35,181
+photo paper,18,07-19-2016,5866,181
+plastic wrap,19,07-19-2016,182,181
+toilet paper,1,07-20-2016,77,182
+box cutters,6,07-21-2016,266,183
+paper towel,2,07-22-2016,154,184
+light bulbs,5,07-22-2016,133,184
+wrenches,15,07-22-2016,14,184
+cleaner,3,07-23-2016,21,185
+office chair,7,07-23-2016,21,185
+printer paper,9,07-24-2016,42,186
+scanner batt,11,07-24-2016,35,186
+plastic bags,4,07-25-2016,875,187
+pens,8,07-25-2016,497,187
+blank badges,10,07-25-2016,763,187
+meat trays,12,07-25-2016,2142,187
+produce bags,13,07-25-2016,168,187
+soap,14,07-25-2016,112,187
+water bottles,16,07-25-2016,693,187
+photo paper,18,07-25-2016,5866,187
+plastic wrap,19,07-25-2016,182,187
+toilet paper,1,07-26-2016,77,188
+keyboards,17,07-26-2016,35,188
+paper towel,2,07-27-2016,154,189
+light bulbs,5,07-27-2016,133,189
+box cutters,6,07-27-2016,266,189
+cleaner,3,07-28-2016,21,190
+office chair,7,07-28-2016,21,190
+wrenches,15,07-28-2016,14,190
+printer paper,9,07-29-2016,42,191
+scanner batt,11,07-29-2016,35,191
+plastic bags,4,07-30-2016,875,192
+blank badges,10,07-30-2016,763,192
+meat trays,12,07-30-2016,2142,192
+produce bags,13,07-30-2016,168,192
+soap,14,07-30-2016,112,192
+water bottles,16,07-30-2016,693,192
+photo paper,18,07-30-2016,5866,192
+pens,8,07-31-2016,497,193
+plastic wrap,19,07-31-2016,182,193
+toilet paper,1,08-01-2016,88,194
+box cutters,6,08-01-2016,304,194
+keyboards,17,08-01-2016,40,194
+paper towel,2,08-02-2016,198,195
+cleaner,3,08-02-2016,27,195
+light bulbs,5,08-02-2016,171,195
+office chair,7,08-02-2016,27,195
+printer paper,9,08-02-2016,54,195
+scanner batt,11,08-02-2016,45,195
+meat trays,12,08-02-2016,2754,195
+wrenches,15,08-02-2016,18,195
+toilet paper,1,08-03-2016,110,196
+plastic bags,4,08-03-2016,1250,196
+pens,8,08-03-2016,710,196
+blank badges,10,08-03-2016,1090,196
+produce bags,13,08-03-2016,240,196
+soap,14,08-03-2016,160,196
+water bottles,16,08-03-2016,990,196
+keyboards,17,08-03-2016,50,196
+photo paper,18,08-03-2016,8380,196
+plastic wrap,19,08-03-2016,260,196
+box cutters,6,08-04-2016,418,197
+paper towel,2,08-05-2016,264,198
+light bulbs,5,08-05-2016,228,198
+cleaner,3,08-06-2016,39,199
+office chair,7,08-06-2016,39,199
+printer paper,9,08-06-2016,78,199
+scanner batt,11,08-06-2016,65,199
+meat trays,12,08-06-2016,3979,199
+wrenches,15,08-06-2016,26,199
+plastic bags,4,08-07-2016,1750,200
+pens,8,08-07-2016,994,200
+blank badges,10,08-07-2016,1526,200
+produce bags,13,08-07-2016,336,200
+soap,14,08-07-2016,224,200
+water bottles,16,08-07-2016,1386,200
+photo paper,18,08-07-2016,11732,200
+plastic wrap,19,08-07-2016,364,200
+toilet paper,1,08-08-2016,154,201
+keyboards,17,08-08-2016,70,201
+box cutters,6,08-09-2016,532,202
+paper towel,2,08-10-2016,308,203
+light bulbs,5,08-10-2016,266,203
+cleaner,3,08-11-2016,42,204
+office chair,7,08-11-2016,42,204
+printer paper,9,08-11-2016,84,204
+scanner batt,11,08-11-2016,70,204
+meat trays,12,08-11-2016,4284,204
+wrenches,15,08-11-2016,28,204
+plastic bags,4,08-12-2016,1750,205
+pens,8,08-12-2016,994,205
+blank badges,10,08-12-2016,1526,205
+produce bags,13,08-12-2016,336,205
+soap,14,08-12-2016,224,205
+water bottles,16,08-12-2016,1386,205
+photo paper,18,08-12-2016,11732,205
+plastic wrap,19,08-12-2016,364,205
+toilet paper,1,08-14-2016,154,206
+keyboards,17,08-14-2016,70,206
+box cutters,6,08-15-2016,532,207
+paper towel,2,08-16-2016,308,208
+light bulbs,5,08-16-2016,266,208
+cleaner,3,08-17-2016,42,209
+office chair,7,08-17-2016,42,209
+scanner batt,11,08-17-2016,70,209
+meat trays,12,08-17-2016,4284,209
+wrenches,15,08-17-2016,28,209
+plastic bags,4,08-18-2016,1750,210
+pens,8,08-18-2016,994,210
+printer paper,9,08-18-2016,84,210
+blank badges,10,08-18-2016,1526,210
+produce bags,13,08-18-2016,336,210
+soap,14,08-18-2016,224,210
+water bottles,16,08-18-2016,1386,210
+photo paper,18,08-18-2016,11732,210
+plastic wrap,19,08-18-2016,364,210
+toilet paper,1,08-19-2016,143,211
+keyboards,17,08-19-2016,65,211
+box cutters,6,08-20-2016,456,212
+paper towel,2,08-22-2016,220,213
+light bulbs,5,08-22-2016,190,213
+cleaner,3,08-26-2016,21,214
+office chair,7,08-26-2016,21,214
+scanner batt,11,08-26-2016,35,214
+meat trays,12,08-26-2016,2142,214
+plastic bags,4,08-27-2016,875,215
+pens,8,08-27-2016,497,215
+printer paper,9,08-27-2016,42,215
+blank badges,10,08-27-2016,763,215
+produce bags,13,08-27-2016,168,215
+soap,14,08-27-2016,112,215
+water bottles,16,08-27-2016,693,215
+photo paper,18,08-27-2016,5866,215
+wrenches,15,08-28-2016,14,216
+plastic wrap,19,08-28-2016,182,216
+toilet paper,1,08-30-2016,77,217
+paper towel,2,08-30-2016,154,217
+light bulbs,5,08-30-2016,133,217
+box cutters,6,08-30-2016,266,217
+keyboards,17,08-30-2016,35,217
+meat trays,12,08-31-2016,2142,218
+cleaner,3,09-01-2016,21,219
+office chair,7,09-01-2016,21,219
+scanner batt,11,09-01-2016,35,219
+plastic bags,4,09-02-2016,875,220
+pens,8,09-02-2016,497,220
+printer paper,9,09-02-2016,42,220
+blank badges,10,09-02-2016,763,220
+produce bags,13,09-02-2016,168,220
+soap,14,09-02-2016,112,220
+water bottles,16,09-02-2016,693,220
+photo paper,18,09-02-2016,5866,220
+plastic wrap,19,09-02-2016,182,220
+wrenches,15,09-03-2016,14,221
+toilet paper,1,09-04-2016,77,222
+box cutters,6,09-04-2016,266,222
+paper towel,2,09-05-2016,154,223
+light bulbs,5,09-05-2016,133,223
+meat trays,12,09-05-2016,2142,223
+keyboards,17,09-05-2016,35,223
+scanner batt,11,09-06-2016,35,224
+cleaner,3,09-07-2016,21,225
+plastic bags,4,09-07-2016,875,225
+office chair,7,09-07-2016,21,225
+blank badges,10,09-07-2016,763,225
+water bottles,16,09-07-2016,693,225
+photo paper,18,09-07-2016,5866,225
+pens,8,09-08-2016,497,226
+printer paper,9,09-08-2016,42,226
+produce bags,13,09-08-2016,168,226
+soap,14,09-08-2016,112,226
+plastic wrap,19,09-08-2016,182,226
+toilet paper,1,09-10-2016,77,227
+box cutters,6,09-10-2016,266,227
+wrenches,15,09-10-2016,14,227
+paper towel,2,09-11-2016,154,228
+light bulbs,5,09-11-2016,133,228
+meat trays,12,09-11-2016,2142,228
+keyboards,17,09-11-2016,35,228
+scanner batt,11,09-12-2016,35,229
+photo paper,18,09-12-2016,5866,229
+cleaner,3,09-13-2016,21,230
+plastic bags,4,09-13-2016,875,230
+office chair,7,09-13-2016,21,230
+pens,8,09-13-2016,497,230
+printer paper,9,09-13-2016,42,230
+blank badges,10,09-13-2016,763,230
+produce bags,13,09-13-2016,168,230
+soap,14,09-13-2016,112,230
+water bottles,16,09-13-2016,693,230
+plastic wrap,19,09-13-2016,182,230
+toilet paper,1,09-16-2016,77,231
+paper towel,2,09-16-2016,154,231
+light bulbs,5,09-16-2016,133,231
+box cutters,6,09-16-2016,266,231
+meat trays,12,09-16-2016,2142,231
+wrenches,15,09-16-2016,14,231
+keyboards,17,09-16-2016,35,231
+plastic bags,4,09-18-2016,875,232
+blank badges,10,09-18-2016,763,232
+scanner batt,11,09-18-2016,35,232
+water bottles,16,09-18-2016,693,232
+photo paper,18,09-18-2016,5866,232
+cleaner,3,09-19-2016,21,233
+office chair,7,09-19-2016,21,233
+pens,8,09-19-2016,497,233
+printer paper,9,09-19-2016,42,233
+produce bags,13,09-19-2016,168,233
+soap,14,09-19-2016,112,233
+plastic wrap,19,09-19-2016,182,233
+toilet paper,1,09-21-2016,77,234
+paper towel,2,09-21-2016,154,234
+light bulbs,5,09-21-2016,133,234
+box cutters,6,09-21-2016,266,234
+meat trays,12,09-21-2016,2142,234
+wrenches,15,09-21-2016,14,234
+keyboards,17,09-21-2016,35,234
+photo paper,18,09-23-2016,5866,235
+plastic bags,4,09-24-2016,875,236
+pens,8,09-24-2016,497,236
+blank badges,10,09-24-2016,763,236
+scanner batt,11,09-24-2016,35,236
+produce bags,13,09-24-2016,168,236
+soap,14,09-24-2016,112,236
+water bottles,16,09-24-2016,693,236
+cleaner,3,09-25-2016,21,237
+office chair,7,09-25-2016,21,237
+printer paper,9,09-25-2016,42,237
+plastic wrap,19,09-25-2016,182,237
+toilet paper,1,09-27-2016,77,238
+paper towel,2,09-27-2016,154,238
+light bulbs,5,09-27-2016,133,238
+box cutters,6,09-27-2016,266,238
+meat trays,12,09-27-2016,2142,238
+wrenches,15,09-28-2016,14,239
+keyboards,17,09-28-2016,35,239
+plastic bags,4,09-29-2016,875,240
+pens,8,09-29-2016,497,240
+blank badges,10,09-29-2016,763,240
+scanner batt,11,09-29-2016,35,240
+produce bags,13,09-29-2016,168,240
+soap,14,09-29-2016,112,240
+water bottles,16,09-29-2016,693,240
+photo paper,18,09-29-2016,5866,240
+plastic wrap,19,09-29-2016,182,240
+printer paper,9,09-30-2016,42,241
+cleaner,3,10-01-2016,21,242
+office chair,7,10-01-2016,21,242
+box cutters,6,10-02-2016,266,243
+toilet paper,1,10-03-2016,77,244
+paper towel,2,10-03-2016,154,244
+light bulbs,5,10-03-2016,133,244
+meat trays,12,10-03-2016,2142,244
+keyboards,17,10-04-2016,35,245
+plastic bags,4,10-05-2016,875,246
+pens,8,10-05-2016,497,246
+blank badges,10,10-05-2016,763,246
+scanner batt,11,10-05-2016,35,246
+produce bags,13,10-05-2016,168,246
+wrenches,15,10-05-2016,14,246
+water bottles,16,10-05-2016,693,246
+photo paper,18,10-05-2016,5866,246
+printer paper,9,10-06-2016,42,247
+soap,14,10-06-2016,112,247
+plastic wrap,19,10-06-2016,182,247
+cleaner,3,10-07-2016,21,248
+box cutters,6,10-07-2016,266,248
+office chair,7,10-07-2016,21,248
+toilet paper,1,10-08-2016,77,249
+paper towel,2,10-08-2016,154,249
+light bulbs,5,10-08-2016,133,249
+meat trays,12,10-08-2016,2142,249
+keyboards,17,10-09-2016,35,250
+plastic bags,4,10-10-2016,875,251
+blank badges,10,10-10-2016,763,251
+water bottles,16,10-10-2016,693,251
+photo paper,18,10-10-2016,5866,251
+pens,8,10-11-2016,497,252
+scanner batt,11,10-11-2016,35,252
+produce bags,13,10-11-2016,168,252
+soap,14,10-11-2016,112,252
+wrenches,15,10-11-2016,14,252
+plastic wrap,19,10-11-2016,182,252
+printer paper,9,10-12-2016,42,253
+cleaner,3,10-13-2016,21,254
+box cutters,6,10-13-2016,266,254
+office chair,7,10-13-2016,21,254
+toilet paper,1,10-14-2016,77,255
+paper towel,2,10-14-2016,154,255
+light bulbs,5,10-14-2016,133,255
+meat trays,12,10-14-2016,2142,255
+plastic bags,4,10-15-2016,875,256
+blank badges,10,10-15-2016,763,256
+water bottles,16,10-15-2016,693,256
+keyboards,17,10-15-2016,35,256
+photo paper,18,10-15-2016,5866,256
+pens,8,10-16-2016,497,257
+scanner batt,11,10-16-2016,35,257
+produce bags,13,10-16-2016,168,257
+soap,14,10-16-2016,112,257
+wrenches,15,10-16-2016,14,257
+plastic wrap,19,10-16-2016,182,257
+printer paper,9,10-18-2016,42,258
+cleaner,3,10-19-2016,21,259
+box cutters,6,10-19-2016,266,259
+office chair,7,10-19-2016,21,259
+toilet paper,1,10-20-2016,77,260
+paper towel,2,10-20-2016,154,260
+light bulbs,5,10-20-2016,133,260
+meat trays,12,10-20-2016,2142,260
+plastic bags,4,10-21-2016,875,261
+blank badges,10,10-21-2016,763,261
+water bottles,16,10-21-2016,693,261
+keyboards,17,10-21-2016,35,261
+photo paper,18,10-21-2016,5866,261
+pens,8,10-22-2016,497,262
+scanner batt,11,10-22-2016,35,262
+produce bags,13,10-22-2016,168,262
+soap,14,10-22-2016,112,262
+plastic wrap,19,10-22-2016,182,262
+printer paper,9,10-23-2016,42,263
+wrenches,15,10-23-2016,14,263
+box cutters,6,10-24-2016,266,264
+toilet paper,1,10-25-2016,77,265
+paper towel,2,10-25-2016,154,265
+cleaner,3,10-25-2016,21,265
+light bulbs,5,10-25-2016,133,265
+office chair,7,10-25-2016,21,265
+meat trays,12,10-25-2016,2142,265
+keyboards,17,10-26-2016,35,266
+plastic bags,4,10-27-2016,875,267
+blank badges,10,10-27-2016,763,267
+water bottles,16,10-27-2016,693,267
+photo paper,18,10-27-2016,5866,267
+pens,8,10-28-2016,497,268
+scanner batt,11,10-28-2016,35,268
+produce bags,13,10-28-2016,168,268
+soap,14,10-28-2016,112,268
+plastic wrap,19,10-28-2016,182,268
+printer paper,9,10-29-2016,42,269
+wrenches,15,10-29-2016,14,269
+paper towel,2,10-30-2016,154,270
+box cutters,6,10-30-2016,266,270
+meat trays,12,10-30-2016,2142,270
+toilet paper,1,10-31-2016,88,271
+cleaner,3,10-31-2016,24,271
+light bulbs,5,10-31-2016,152,271
+office chair,7,10-31-2016,24,271
+keyboards,17,10-31-2016,40,271
+photo paper,18,10-31-2016,6704,271
+plastic bags,4,11-01-2016,1000,272
+pens,8,11-01-2016,568,272
+blank badges,10,11-01-2016,872,272
+scanner batt,11,11-01-2016,40,272
+produce bags,13,11-01-2016,192,272
+soap,14,11-01-2016,128,272
+water bottles,16,11-01-2016,792,272
+plastic wrap,19,11-01-2016,208,272
+printer paper,9,11-03-2016,48,273
+paper towel,2,11-04-2016,176,274
+box cutters,6,11-04-2016,304,274
+meat trays,12,11-04-2016,2448,274
+wrenches,15,11-04-2016,16,274
+toilet paper,1,11-06-2016,88,275
+cleaner,3,11-06-2016,24,275
+light bulbs,5,11-06-2016,152,275
+office chair,7,11-06-2016,24,275
+photo paper,18,11-06-2016,6704,275
+plastic bags,4,11-07-2016,875,276
+pens,8,11-07-2016,497,276
+blank badges,10,11-07-2016,763,276
+water bottles,16,11-07-2016,693,276
+keyboards,17,11-07-2016,35,276
+plastic wrap,19,11-07-2016,182,276
+scanner batt,11,11-08-2016,35,277
+produce bags,13,11-08-2016,168,277
+soap,14,11-08-2016,112,277
+printer paper,9,11-09-2016,42,278
+paper towel,2,11-10-2016,154,279
+box cutters,6,11-10-2016,266,279
+meat trays,12,11-10-2016,2142,279
+wrenches,15,11-11-2016,14,280
+light bulbs,5,11-12-2016,133,281
+toilet paper,1,11-13-2016,77,282
+cleaner,3,11-13-2016,21,282
+plastic bags,4,11-13-2016,875,282
+office chair,7,11-13-2016,21,282
+pens,8,11-13-2016,497,282
+blank badges,10,11-13-2016,763,282
+water bottles,16,11-13-2016,693,282
+keyboards,17,11-13-2016,35,282
+photo paper,18,11-13-2016,5866,282
+plastic wrap,19,11-13-2016,182,282
+scanner batt,11,11-14-2016,35,283
+produce bags,13,11-14-2016,168,283
+soap,14,11-14-2016,112,283
+box cutters,6,11-15-2016,266,284
+printer paper,9,11-15-2016,42,284
+paper towel,2,11-16-2016,154,285
+meat trays,12,11-16-2016,2142,285
+wrenches,15,11-16-2016,14,285
+plastic bags,4,11-17-2016,875,286
+light bulbs,5,11-17-2016,133,286
+blank badges,10,11-17-2016,763,286
+water bottles,16,11-17-2016,693,286
+toilet paper,1,11-18-2016,77,287
+pens,8,11-18-2016,497,287
+keyboards,17,11-18-2016,35,287
+photo paper,18,11-18-2016,5866,287
+cleaner,3,11-19-2016,21,288
+office chair,7,11-19-2016,21,288
+produce bags,13,11-19-2016,168,288
+soap,14,11-19-2016,112,288
+plastic wrap,19,11-19-2016,182,288
+scanner batt,11,11-20-2016,35,289
+box cutters,6,11-21-2016,266,290
+printer paper,9,11-21-2016,42,290
+paper towel,2,11-22-2016,154,291
+meat trays,12,11-22-2016,2142,291
+toilet paper,1,11-23-2016,77,292
+plastic bags,4,11-23-2016,875,292
+light bulbs,5,11-23-2016,133,292
+blank badges,10,11-23-2016,763,292
+wrenches,15,11-23-2016,14,292
+water bottles,16,11-23-2016,693,292
+photo paper,18,11-23-2016,5866,292
+cleaner,3,11-24-2016,21,293
+office chair,7,11-24-2016,21,293
+pens,8,11-24-2016,497,293
+produce bags,13,11-24-2016,168,293
+soap,14,11-24-2016,112,293
+keyboards,17,11-24-2016,35,293
+plastic wrap,19,11-24-2016,182,293
+scanner batt,11,11-25-2016,35,294
+box cutters,6,11-26-2016,266,295
+printer paper,9,11-26-2016,42,295
+paper towel,2,11-27-2016,176,296
+meat trays,12,11-27-2016,2448,296
+plastic bags,4,11-28-2016,1000,297
+light bulbs,5,11-28-2016,152,297
+blank badges,10,11-28-2016,872,297
+water bottles,16,11-28-2016,792,297
+toilet paper,1,11-29-2016,88,298
+pens,8,11-29-2016,568,298
+produce bags,13,11-29-2016,192,298
+wrenches,15,11-29-2016,16,298
+keyboards,17,11-29-2016,40,298
+photo paper,18,11-29-2016,6704,298
+plastic wrap,19,11-29-2016,208,298
+cleaner,3,11-30-2016,24,299
+office chair,7,11-30-2016,24,299
+scanner batt,11,11-30-2016,40,299
+soap,14,11-30-2016,128,299
+box cutters,6,12-01-2016,304,300
+printer paper,9,12-01-2016,48,300
+paper towel,2,12-02-2016,176,301
+meat trays,12,12-02-2016,2448,301
+plastic bags,4,12-04-2016,1000,302
+light bulbs,5,12-04-2016,152,302
+blank badges,10,12-04-2016,872,302
+water bottles,16,12-04-2016,792,302
+toilet paper,1,12-05-2016,88,303
+pens,8,12-05-2016,568,303
+produce bags,13,12-05-2016,192,303
+soap,14,12-05-2016,128,303
+wrenches,15,12-05-2016,16,303
+keyboards,17,12-05-2016,40,303
+photo paper,18,12-05-2016,6704,303
+plastic wrap,19,12-05-2016,208,303
+cleaner,3,12-06-2016,24,304
+office chair,7,12-06-2016,24,304
+scanner batt,11,12-06-2016,40,304
+box cutters,6,12-07-2016,304,305
+printer paper,9,12-07-2016,48,305
+paper towel,2,12-08-2016,176,306
+meat trays,12,12-08-2016,2448,306
+plastic bags,4,12-09-2016,1000,307
+light bulbs,5,12-09-2016,152,307
+toilet paper,1,12-10-2016,88,308
+pens,8,12-10-2016,568,308
+blank badges,10,12-10-2016,872,308
+water bottles,16,12-10-2016,792,308
+keyboards,17,12-10-2016,40,308
+photo paper,18,12-10-2016,6704,308
+plastic wrap,19,12-10-2016,208,308
+produce bags,13,12-11-2016,192,309
+soap,14,12-11-2016,128,309
+wrenches,15,12-11-2016,16,309
+cleaner,3,12-12-2016,24,310
+box cutters,6,12-12-2016,304,310
+office chair,7,12-12-2016,24,310
+scanner batt,11,12-12-2016,40,310
+printer paper,9,12-13-2016,48,311
+meat trays,12,12-13-2016,2448,311
+paper towel,2,12-14-2016,176,312
+plastic bags,4,12-15-2016,1000,313
+light bulbs,5,12-15-2016,152,313
+toilet paper,1,12-16-2016,88,314
+pens,8,12-16-2016,568,314
+blank badges,10,12-16-2016,872,314
+water bottles,16,12-16-2016,792,314
+photo paper,18,12-16-2016,6704,314
+plastic wrap,19,12-16-2016,208,314
+produce bags,13,12-17-2016,192,315
+soap,14,12-17-2016,128,315
+keyboards,17,12-17-2016,40,315
+cleaner,3,12-18-2016,24,316
+box cutters,6,12-18-2016,304,316
+office chair,7,12-18-2016,24,316
+scanner batt,11,12-18-2016,40,316
+wrenches,15,12-18-2016,16,316
+paper towel,2,12-19-2016,198,317
+printer paper,9,12-19-2016,54,317
+meat trays,12,12-19-2016,2754,317
+plastic bags,4,12-20-2016,1125,318
+light bulbs,5,12-20-2016,171,318
+blank badges,10,12-20-2016,981,318
+water bottles,16,12-20-2016,891,318
+photo paper,18,12-20-2016,7542,318
+toilet paper,1,12-21-2016,110,319
+pens,8,12-21-2016,710,319
+produce bags,13,12-21-2016,240,319
+plastic wrap,19,12-21-2016,260,319
+box cutters,6,12-22-2016,418,320
+scanner batt,11,12-22-2016,55,320
+soap,14,12-22-2016,176,320
+wrenches,15,12-22-2016,22,320
+keyboards,17,12-22-2016,55,320
+paper towel,2,12-23-2016,264,321
+cleaner,3,12-23-2016,36,321
+office chair,7,12-23-2016,36,321
+printer paper,9,12-23-2016,72,321
+meat trays,12,12-23-2016,3672,321
+plastic bags,4,12-24-2016,1500,322
+light bulbs,5,12-24-2016,228,322
+blank badges,10,12-24-2016,1308,322
+water bottles,16,12-24-2016,1188,322
+photo paper,18,12-24-2016,10056,322
+pens,8,12-25-2016,781,323
+toilet paper,1,12-26-2016,121,324
+produce bags,13,12-26-2016,264,324
+plastic wrap,19,12-26-2016,286,324
+soap,14,12-27-2016,176,325
+keyboards,17,12-27-2016,55,325
+box cutters,6,12-28-2016,380,326
+scanner batt,11,12-29-2016,45,327
+wrenches,15,12-29-2016,18,327

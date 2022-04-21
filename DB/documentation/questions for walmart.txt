@@ -1,0 +1,11 @@
+Questions for walmart.
+Was any data left out of the set?
+	Removed orders, not so much the blank columns. 
+Does site mean "site ordered from" or is it "ordered to"? it is going ot that store
+	Some of the items ordered - like chairs - all go to one location.
+Is all of the data the data from these time periods? in the header file the created on tab
+	Is other supplies like cleaning, toiletries, paper goods, and tools 
+	ordered by something else? 
+	Over half of the data if from a hand full of sites. 
+More than half of the data is from two sites. 
+"Changed on" column means "ordered on" for date of placement?

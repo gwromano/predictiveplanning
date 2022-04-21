@@ -1,0 +1,29 @@
+Sorry for the delay; to summarize our meeting from earlier today:
+Since we have only received test data from Walmart that is not entirely useable for the purpose for which we need it, we will need to pivot the project just a bit.  Initially we were expecting to receive order data from the last year or so that has the various patterns in it, and then you would make a predictive ordering system off of that with a nice front-end ordering screen.  Instead, we will need to generate the data first, and then work on predictive ordering.  We are no longer as concerned about the front-end ordering screen as much as before.  So, this will essentially be split into three parts: generate data, predict patterns, write about it.
+1.	Generate data - I would suggest this part going several iterations.  The first iteration can be a very simple console application that takes in info from the user (how many stores?  ...store1, store2, store3..., how many different items and how often ordered?  yearly: widget1, widget2, widget3... every six months: gadget1, gadget2, gadget3..., every other month: whatsit1, whatsit2, whatsit3... etc,)
+a.	You will probably want to create ~10 items that get ordered annually, ~10 items that get ordered biannually, etc.
+b.	Throw some randomness in there for noise.  Perhaps if the user says quantity of 10, your system chooses +/-20% for randomness and will generate a quantity of 8-12 things. 
+c.	Once you have this framework working, you should be able to expand it easily from 10 stores to 100 stores
+d.	Make notes of all the decisions that are made during this process for your report
+e.	Once you have initial data generated, you'll typically split the data into training and test data - usually around 70% training and 30% testing
+f.	Future iterations of this data generating framework could have a nicer front-end where the user fills out various textboxes of numbers instead of console input, and could use actual names of objects instead of widgets and whatsits
+2.	Predictive ordering - this should pretty much stay the same from the proposal.  Since you are generating the data, you should know generally when the peaks and valleys of the ordering patterns will be.  If you notice, my proposed naming convention has widgets ordered once a year, while whatsits are ordered 6x/year.  Those are design decisions that you'll need to make though - feel free to make your own decisions though with this!
+3.	Writing the report - you should be able to write all about how this project has gone and what you've had to do to make it work
+a.	Explain the failures and lessons learned
+b.	Write about how you generate the data, how you chose the training vs testing data
+c.	Discuss how/why you've chosen the numbers/noise for the data generation (probably come up with what looks like valid numbers and test and justify)
+d.	Be able to scale the framework and discuss if that changes anything
+Please continue to keep Walmart informed about your progress by perhaps a weekly email or so.
+Hope this helps, and please let me know if y'all have any other questions!  Our next scheduled meeting is next Tuesday, February 22.
+Dr. Streeter
+
+
+Lora Streeter, Ph.D.
+Teaching Assistant Professor
+Dept. of Computer Science and Computer Engineering
+University of Arkansas, Fayetteville 72701
+420 JB Hunt Building
+479.575.3012
+
+Pronouns: she/her
+

@@ -1,0 +1,7 @@
+Item           January   Febuary   March     April     May       June      July      August    September October   November  December  
+toilet paper   13        15        13        16        19        10        17        13        13        11        15        19        
+paper towel    24        21        24        20        23        23        18        20        20        21        17        18        
+cleaner        2         4         2         2         4         2         2         3         3         3         4         3         
+plastic bags   229       125       176       111       113       165       157       141       209       177       195       174       
+light bulbs    18        18        16        17        18        17        19        18        18        17        18        18        
+box cutters    34        45        48        21        22        40        27        31        33        37        35        27        

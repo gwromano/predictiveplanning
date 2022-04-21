@@ -1,0 +1,615 @@
+Item,Item ID,Day,Quantity,Order Number
+scanner batt,11,01-01-2021,120,0
+soap,14,01-01-2021,340,0
+printer paper,9,01-03-2021,120,0
+keyboards,17,01-03-2021,100,0
+plastic wrap,19,01-04-2021,440,0
+produce bags,13,01-06-2021,420,0
+box cutters,6,01-07-2021,460,0
+wrenches,15,01-07-2021,60,0
+cleaner,3,01-08-2021,80,0
+office chair,7,01-08-2021,80,0
+pens,8,01-08-2021,1400,0
+blank badges,10,01-08-2021,3760,0
+water bottles,16,01-08-2021,1480,0
+photo paper,18,01-08-2021,18460,0
+plastic bags,4,01-09-2021,4040,0
+meat trays,12,01-13-2021,6280,0
+paper towel,2,01-14-2021,440,0
+light bulbs,5,01-14-2021,380,0
+toilet paper,1,01-15-2021,263,0
+scanner batt,11,01-17-2021,99,0
+soap,14,01-17-2021,281,0
+printer paper,9,01-18-2021,99,0
+keyboards,17,01-19-2021,80,0
+plastic wrap,19,01-20-2021,341,0
+produce bags,13,01-22-2021,315,0
+box cutters,6,01-23-2021,345,0
+plastic bags,4,01-24-2021,2929,0
+pens,8,01-24-2021,1015,0
+blank badges,10,01-24-2021,2726,0
+wrenches,15,01-24-2021,44,0
+water bottles,16,01-24-2021,1073,0
+photo paper,18,01-24-2021,13384,0
+cleaner,3,01-25-2021,59,0
+office chair,7,01-25-2021,59,0
+toilet paper,1,01-29-2021,212,0
+meat trays,12,01-29-2021,4436,0
+paper towel,2,01-30-2021,300,0
+light bulbs,5,01-30-2021,259,0
+soap,14,01-31-2021,232,0
+scanner batt,11,02-01-2021,82,0
+printer paper,9,02-02-2021,82,0
+produce bags,13,02-02-2021,287,0
+keyboards,17,02-02-2021,69,0
+plastic wrap,19,02-02-2021,300,0
+box cutters,6,02-03-2021,314,0
+pens,8,02-05-2021,954,0
+blank badges,10,02-05-2021,2562,0
+water bottles,16,02-05-2021,1009,0
+photo paper,18,02-05-2021,12576,0
+plastic bags,4,02-06-2021,2753,0
+cleaner,3,02-07-2021,55,0
+office chair,7,02-07-2021,55,0
+wrenches,15,02-07-2021,41,0
+toilet paper,1,02-09-2021,205,0
+paper towel,2,02-09-2021,300,0
+meat trays,12,02-09-2021,4279,0
+light bulbs,5,02-10-2021,259,0
+soap,14,02-10-2021,232,0
+scanner batt,11,02-11-2021,82,0
+printer paper,9,02-13-2021,82,0
+keyboards,17,02-13-2021,69,0
+plastic wrap,19,02-13-2021,300,0
+produce bags,13,02-14-2021,279,0
+box cutters,6,02-16-2021,291,0
+pens,8,02-18-2021,858,0
+plastic bags,4,02-19-2021,2475,0
+blank badges,10,02-19-2021,2303,0
+water bottles,16,02-19-2021,907,0
+photo paper,18,02-19-2021,11307,0
+wrenches,15,02-22-2021,37,0
+cleaner,3,02-23-2021,49,0
+office chair,7,02-23-2021,49,0
+meat trays,12,02-23-2021,3847,0
+toilet paper,1,02-24-2021,190,0
+paper towel,2,02-24-2021,278,0
+light bulbs,5,02-24-2021,240,0
+soap,14,02-25-2021,215,0
+scanner batt,11,02-26-2021,76,0
+plastic wrap,19,02-26-2021,278,0
+printer paper,9,02-27-2021,76,0
+produce bags,13,02-27-2021,266,0
+box cutters,6,02-28-2021,291,0
+pens,8,02-28-2021,884,0
+keyboards,17,02-28-2021,64,0
+plastic bags,4,03-01-2021,2551,0
+blank badges,10,03-01-2021,2374,0
+water bottles,16,03-01-2021,935,0
+photo paper,18,03-01-2021,11653,0
+wrenches,15,03-04-2021,38,0
+toilet paper,1,03-05-2021,190,0
+cleaner,3,03-05-2021,51,0
+office chair,7,03-05-2021,51,0
+meat trays,12,03-05-2021,3965,0
+paper towel,2,03-06-2021,278,0
+light bulbs,5,03-06-2021,240,0
+soap,14,03-07-2021,215,0
+scanner batt,11,03-09-2021,76,0
+plastic wrap,19,03-09-2021,278,0
+box cutters,6,03-10-2021,291,0
+printer paper,9,03-10-2021,76,0
+produce bags,13,03-10-2021,266,0
+plastic bags,4,03-11-2021,2551,0
+pens,8,03-11-2021,884,0
+blank badges,10,03-11-2021,2374,0
+water bottles,16,03-11-2021,935,0
+keyboards,17,03-11-2021,64,0
+photo paper,18,03-11-2021,11653,0
+meat trays,12,03-14-2021,4082,0
+wrenches,15,03-14-2021,39,0
+toilet paper,1,03-15-2021,199,0
+paper towel,2,03-15-2021,292,0
+cleaner,3,03-15-2021,53,0
+office chair,7,03-15-2021,53,0
+light bulbs,5,03-16-2021,259,0
+soap,14,03-17-2021,238,0
+box cutters,6,03-19-2021,334,0
+pens,8,03-19-2021,1015,0
+printer paper,9,03-19-2021,87,0
+scanner batt,11,03-19-2021,87,0
+produce bags,13,03-19-2021,305,0
+plastic wrap,19,03-19-2021,319,0
+plastic bags,4,03-20-2021,2929,0
+blank badges,10,03-20-2021,2726,0
+water bottles,16,03-20-2021,1073,0
+keyboards,17,03-20-2021,73,0
+photo paper,18,03-20-2021,13384,0
+meat trays,12,03-23-2021,4553,0
+toilet paper,1,03-25-2021,218,0
+paper towel,2,03-25-2021,319,0
+cleaner,3,03-25-2021,59,0
+office chair,7,03-25-2021,59,0
+wrenches,15,03-25-2021,44,0
+light bulbs,5,03-26-2021,276,0
+soap,14,03-28-2021,247,0
+scanner batt,11,03-29-2021,87,0
+plastic wrap,19,03-29-2021,319,0
+box cutters,6,03-30-2021,334,0
+pens,8,03-30-2021,1015,0
+printer paper,9,03-30-2021,87,0
+produce bags,13,03-30-2021,305,0
+water bottles,16,03-30-2021,1073,0
+photo paper,18,03-30-2021,13384,0
+plastic bags,4,03-31-2021,2929,0
+blank badges,10,03-31-2021,2726,0
+keyboards,17,03-31-2021,73,0
+meat trays,12,04-04-2021,4553,0
+toilet paper,1,04-06-2021,218,0
+paper towel,2,04-06-2021,319,0
+cleaner,3,04-06-2021,59,0
+light bulbs,5,04-06-2021,276,0
+office chair,7,04-06-2021,59,0
+wrenches,15,04-06-2021,44,0
+soap,14,04-08-2021,247,0
+plastic wrap,19,04-10-2021,319,0
+box cutters,6,04-11-2021,334,0
+pens,8,04-11-2021,1015,0
+scanner batt,11,04-11-2021,87,0
+produce bags,13,04-11-2021,305,0
+plastic bags,4,04-12-2021,2929,0
+printer paper,9,04-12-2021,87,0
+blank badges,10,04-12-2021,2726,0
+water bottles,16,04-12-2021,1073,0
+photo paper,18,04-12-2021,13384,0
+keyboards,17,04-13-2021,73,0
+meat trays,12,04-15-2021,4553,0
+toilet paper,1,04-16-2021,218,0
+paper towel,2,04-16-2021,319,0
+light bulbs,5,04-17-2021,276,0
+cleaner,3,04-18-2021,59,0
+office chair,7,04-18-2021,59,0
+wrenches,15,04-18-2021,44,0
+soap,14,04-19-2021,247,0
+scanner batt,11,04-21-2021,87,0
+plastic wrap,19,04-21-2021,319,0
+plastic bags,4,04-22-2021,2929,0
+box cutters,6,04-22-2021,334,0
+pens,8,04-22-2021,1015,0
+blank badges,10,04-22-2021,2726,0
+produce bags,13,04-22-2021,305,0
+water bottles,16,04-22-2021,1073,0
+photo paper,18,04-22-2021,13384,0
+printer paper,9,04-23-2021,87,0
+keyboards,17,04-23-2021,73,0
+meat trays,12,04-26-2021,4553,0
+toilet paper,1,04-28-2021,218,0
+paper towel,2,04-28-2021,319,0
+light bulbs,5,04-29-2021,276,0
+cleaner,3,04-30-2021,59,0
+office chair,7,04-30-2021,59,0
+soap,14,04-30-2021,247,0
+wrenches,15,05-01-2021,44,0
+plastic wrap,19,05-02-2021,319,0
+box cutters,6,05-03-2021,334,0
+pens,8,05-03-2021,1015,0
+blank badges,10,05-03-2021,2726,0
+scanner batt,11,05-03-2021,87,0
+produce bags,13,05-03-2021,305,0
+water bottles,16,05-03-2021,1073,0
+photo paper,18,05-03-2021,13384,0
+plastic bags,4,05-04-2021,2929,0
+printer paper,9,05-05-2021,87,0
+keyboards,17,05-06-2021,73,0
+meat trays,12,05-07-2021,4553,0
+toilet paper,1,05-09-2021,218,0
+paper towel,2,05-09-2021,319,0
+light bulbs,5,05-10-2021,285,0
+soap,14,05-11-2021,255,0
+cleaner,3,05-12-2021,60,0
+office chair,7,05-12-2021,60,0
+wrenches,15,05-13-2021,44,0
+plastic wrap,19,05-13-2021,319,0
+plastic bags,4,05-14-2021,2929,0
+box cutters,6,05-14-2021,334,0
+pens,8,05-14-2021,1015,0
+blank badges,10,05-14-2021,2726,0
+scanner batt,11,05-14-2021,87,0
+produce bags,13,05-14-2021,305,0
+water bottles,16,05-14-2021,1073,0
+photo paper,18,05-14-2021,13384,0
+printer paper,9,05-16-2021,87,0
+keyboards,17,05-16-2021,73,0
+meat trays,12,05-17-2021,4553,0
+toilet paper,1,05-20-2021,218,0
+paper towel,2,05-20-2021,319,0
+light bulbs,5,05-22-2021,276,0
+soap,14,05-23-2021,247,0
+plastic wrap,19,05-24-2021,319,0
+cleaner,3,05-25-2021,59,0
+plastic bags,4,05-25-2021,2929,0
+box cutters,6,05-25-2021,334,0
+office chair,7,05-25-2021,59,0
+pens,8,05-25-2021,1015,0
+blank badges,10,05-25-2021,2726,0
+scanner batt,11,05-25-2021,87,0
+produce bags,13,05-25-2021,305,0
+wrenches,15,05-25-2021,44,0
+water bottles,16,05-25-2021,1073,0
+photo paper,18,05-25-2021,13384,0
+printer paper,9,05-27-2021,87,0
+keyboards,17,05-29-2021,73,0
+meat trays,12,05-30-2021,4553,0
+toilet paper,1,06-01-2021,218,0
+paper towel,2,06-01-2021,319,0
+light bulbs,5,06-02-2021,276,0
+soap,14,06-04-2021,247,0
+plastic wrap,19,06-05-2021,319,0
+plastic bags,4,06-06-2021,2929,0
+box cutters,6,06-06-2021,334,0
+pens,8,06-06-2021,1015,0
+blank badges,10,06-06-2021,2726,0
+produce bags,13,06-06-2021,305,0
+water bottles,16,06-06-2021,1073,0
+photo paper,18,06-06-2021,13384,0
+cleaner,3,06-07-2021,56,0
+office chair,7,06-07-2021,56,0
+scanner batt,11,06-07-2021,84,0
+wrenches,15,06-07-2021,42,0
+printer paper,9,06-08-2021,84,0
+meat trays,12,06-09-2021,4396,0
+keyboards,17,06-09-2021,70,0
+toilet paper,1,06-12-2021,210,0
+paper towel,2,06-12-2021,308,0
+light bulbs,5,06-14-2021,266,0
+soap,14,06-16-2021,238,0
+plastic wrap,19,06-16-2021,308,0
+plastic bags,4,06-17-2021,2828,0
+box cutters,6,06-17-2021,322,0
+pens,8,06-17-2021,980,0
+blank badges,10,06-17-2021,2632,0
+water bottles,16,06-17-2021,1036,0
+photo paper,18,06-17-2021,12922,0
+cleaner,3,06-18-2021,56,0
+office chair,7,06-18-2021,56,0
+scanner batt,11,06-18-2021,84,0
+produce bags,13,06-18-2021,294,0
+wrenches,15,06-18-2021,42,0
+printer paper,9,06-19-2021,84,0
+meat trays,12,06-21-2021,4553,0
+keyboards,17,06-21-2021,73,0
+toilet paper,1,06-23-2021,218,0
+paper towel,2,06-23-2021,319,0
+light bulbs,5,06-24-2021,276,0
+pens,8,06-26-2021,1015,0
+soap,14,06-26-2021,247,0
+plastic wrap,19,06-26-2021,319,0
+plastic bags,4,06-27-2021,2929,0
+blank badges,10,06-27-2021,2726,0
+water bottles,16,06-27-2021,1073,0
+photo paper,18,06-27-2021,13384,0
+box cutters,6,06-28-2021,334,0
+produce bags,13,06-28-2021,305,0
+cleaner,3,06-29-2021,59,0
+office chair,7,06-29-2021,59,0
+scanner batt,11,06-29-2021,87,0
+printer paper,9,06-30-2021,87,0
+wrenches,15,06-30-2021,44,0
+meat trays,12,07-01-2021,4553,0
+keyboards,17,07-02-2021,73,0
+toilet paper,1,07-04-2021,218,0
+paper towel,2,07-04-2021,319,0
+light bulbs,5,07-05-2021,276,0
+soap,14,07-08-2021,247,0
+plastic wrap,19,07-08-2021,319,0
+plastic bags,4,07-09-2021,2929,0
+pens,8,07-09-2021,1015,0
+blank badges,10,07-09-2021,2726,0
+water bottles,16,07-09-2021,1073,0
+photo paper,18,07-09-2021,13384,0
+box cutters,6,07-10-2021,334,0
+produce bags,13,07-10-2021,305,0
+cleaner,3,07-11-2021,59,0
+office chair,7,07-11-2021,59,0
+scanner batt,11,07-11-2021,87,0
+printer paper,9,07-12-2021,87,0
+meat trays,12,07-12-2021,4553,0
+wrenches,15,07-12-2021,44,0
+keyboards,17,07-14-2021,73,0
+toilet paper,1,07-16-2021,218,0
+paper towel,2,07-16-2021,319,0
+light bulbs,5,07-17-2021,276,0
+soap,14,07-19-2021,238,0
+plastic wrap,19,07-19-2021,308,0
+plastic bags,4,07-20-2021,2828,0
+box cutters,6,07-20-2021,322,0
+pens,8,07-20-2021,980,0
+blank badges,10,07-20-2021,2632,0
+water bottles,16,07-20-2021,1036,0
+photo paper,18,07-20-2021,12922,0
+produce bags,13,07-21-2021,294,0
+scanner batt,11,07-22-2021,84,0
+cleaner,3,07-24-2021,56,0
+office chair,7,07-24-2021,56,0
+printer paper,9,07-24-2021,84,0
+meat trays,12,07-24-2021,4396,0
+wrenches,15,07-25-2021,42,0
+keyboards,17,07-26-2021,70,0
+toilet paper,1,07-27-2021,210,0
+paper towel,2,07-27-2021,308,0
+light bulbs,5,07-28-2021,266,0
+soap,14,07-30-2021,238,0
+pens,8,07-31-2021,980,0
+blank badges,10,07-31-2021,2632,0
+photo paper,18,07-31-2021,12922,0
+plastic wrap,19,07-31-2021,308,0
+plastic bags,4,08-01-2021,2828,0
+box cutters,6,08-01-2021,322,0
+water bottles,16,08-01-2021,1036,0
+scanner batt,11,08-02-2021,87,0
+produce bags,13,08-02-2021,305,0
+cleaner,3,08-03-2021,60,0
+office chair,7,08-03-2021,60,0
+printer paper,9,08-03-2021,90,0
+meat trays,12,08-03-2021,4710,0
+wrenches,15,08-03-2021,45,0
+toilet paper,1,08-04-2021,233,0
+paper towel,2,08-04-2021,341,0
+keyboards,17,08-04-2021,78,0
+light bulbs,5,08-05-2021,304,0
+pens,8,08-06-2021,1155,0
+blank badges,10,08-06-2021,3102,0
+soap,14,08-06-2021,281,0
+photo paper,18,08-06-2021,15230,0
+plastic wrap,19,08-06-2021,363,0
+plastic bags,4,08-07-2021,3434,0
+box cutters,6,08-07-2021,391,0
+produce bags,13,08-07-2021,357,0
+water bottles,16,08-07-2021,1258,0
+cleaner,3,08-09-2021,72,0
+office chair,7,08-09-2021,72,0
+printer paper,9,08-09-2021,108,0
+scanner batt,11,08-09-2021,108,0
+meat trays,12,08-09-2021,5652,0
+wrenches,15,08-10-2021,56,0
+keyboards,17,08-10-2021,93,0
+toilet paper,1,08-11-2021,285,0
+paper towel,2,08-11-2021,418,0
+light bulbs,5,08-11-2021,361,0
+pens,8,08-12-2021,1365,0
+blank badges,10,08-12-2021,3666,0
+soap,14,08-12-2021,332,0
+photo paper,18,08-12-2021,17999,0
+plastic wrap,19,08-12-2021,429,0
+plastic bags,4,08-13-2021,4040,0
+box cutters,6,08-13-2021,460,0
+water bottles,16,08-13-2021,1480,0
+produce bags,13,08-14-2021,431,0
+printer paper,9,08-16-2021,129,0
+scanner batt,11,08-16-2021,129,0
+meat trays,12,08-16-2021,6751,0
+cleaner,3,08-17-2021,88,0
+office chair,7,08-17-2021,88,0
+paper towel,2,08-18-2021,495,0
+wrenches,15,08-18-2021,68,0
+keyboards,17,08-18-2021,113,0
+toilet paper,1,08-19-2021,345,0
+light bulbs,5,08-19-2021,437,0
+plastic bags,4,08-21-2021,4646,0
+pens,8,08-21-2021,1610,0
+blank badges,10,08-21-2021,4324,0
+soap,14,08-21-2021,391,0
+photo paper,18,08-21-2021,21229,0
+plastic wrap,19,08-21-2021,507,0
+box cutters,6,08-22-2021,529,0
+water bottles,16,08-22-2021,1702,0
+produce bags,13,08-24-2021,483,0
+scanner batt,11,08-28-2021,138,0
+meat trays,12,08-28-2021,7222,0
+printer paper,9,08-29-2021,138,0
+cleaner,3,08-31-2021,88,0
+office chair,7,08-31-2021,88,0
+paper towel,2,09-03-2021,451,0
+wrenches,15,09-03-2021,62,0
+keyboards,17,09-03-2021,103,0
+toilet paper,1,09-04-2021,300,0
+light bulbs,5,09-05-2021,371,0
+pens,8,09-08-2021,1260,0
+blank badges,10,09-08-2021,3384,0
+photo paper,18,09-08-2021,16614,0
+plastic wrap,19,09-08-2021,396,0
+plastic bags,4,09-09-2021,3535,0
+soap,14,09-09-2021,298,0
+water bottles,16,09-09-2021,1295,0
+box cutters,6,09-10-2021,391,0
+produce bags,13,09-12-2021,336,0
+scanner batt,11,09-15-2021,87,0
+meat trays,12,09-15-2021,4553,0
+printer paper,9,09-17-2021,84,0
+paper towel,2,09-19-2021,308,0
+cleaner,3,09-19-2021,56,0
+office chair,7,09-19-2021,56,0
+toilet paper,1,09-20-2021,210,0
+wrenches,15,09-20-2021,42,0
+keyboards,17,09-20-2021,70,0
+light bulbs,5,09-21-2021,266,0
+plastic bags,4,09-22-2021,2828,0
+pens,8,09-22-2021,980,0
+blank badges,10,09-22-2021,2632,0
+soap,14,09-22-2021,238,0
+water bottles,16,09-22-2021,1036,0
+photo paper,18,09-22-2021,12922,0
+plastic wrap,19,09-22-2021,308,0
+box cutters,6,09-23-2021,322,0
+produce bags,13,09-24-2021,294,0
+meat trays,12,09-27-2021,4396,0
+printer paper,9,09-28-2021,84,0
+scanner batt,11,09-28-2021,84,0
+paper towel,2,09-30-2021,308,0
+cleaner,3,09-30-2021,56,0
+office chair,7,09-30-2021,56,0
+keyboards,17,09-30-2021,70,0
+toilet paper,1,10-01-2021,210,0
+light bulbs,5,10-02-2021,266,0
+wrenches,15,10-02-2021,42,0
+pens,8,10-03-2021,980,0
+blank badges,10,10-03-2021,2632,0
+photo paper,18,10-03-2021,12922,0
+plastic bags,4,10-04-2021,2828,0
+soap,14,10-04-2021,238,0
+water bottles,16,10-04-2021,1036,0
+plastic wrap,19,10-04-2021,308,0
+box cutters,6,10-05-2021,322,0
+produce bags,13,10-05-2021,294,0
+scanner batt,11,10-08-2021,84,0
+meat trays,12,10-08-2021,4396,0
+printer paper,9,10-09-2021,84,0
+paper towel,2,10-11-2021,308,0
+toilet paper,1,10-13-2021,210,0
+cleaner,3,10-13-2021,56,0
+light bulbs,5,10-13-2021,266,0
+office chair,7,10-13-2021,56,0
+keyboards,17,10-13-2021,70,0
+pens,8,10-14-2021,980,0
+blank badges,10,10-14-2021,2632,0
+wrenches,15,10-14-2021,42,0
+photo paper,18,10-14-2021,12922,0
+plastic bags,4,10-15-2021,2828,0
+soap,14,10-15-2021,238,0
+water bottles,16,10-15-2021,1036,0
+plastic wrap,19,10-15-2021,308,0
+box cutters,6,10-16-2021,322,0
+produce bags,13,10-16-2021,294,0
+meat trays,12,10-19-2021,4396,0
+printer paper,9,10-21-2021,84,0
+scanner batt,11,10-21-2021,84,0
+paper towel,2,10-22-2021,308,0
+toilet paper,1,10-23-2021,210,0
+cleaner,3,10-24-2021,56,0
+light bulbs,5,10-24-2021,266,0
+office chair,7,10-24-2021,56,0
+keyboards,17,10-24-2021,70,0
+pens,8,10-25-2021,980,0
+blank badges,10,10-25-2021,2632,0
+photo paper,18,10-25-2021,12922,0
+plastic bags,4,10-26-2021,2828,0
+soap,14,10-26-2021,238,0
+wrenches,15,10-26-2021,42,0
+water bottles,16,10-26-2021,1036,0
+plastic wrap,19,10-26-2021,308,0
+box cutters,6,10-27-2021,322,0
+produce bags,13,10-28-2021,294,0
+meat trays,12,10-30-2021,4396,0
+scanner batt,11,10-31-2021,84,0
+printer paper,9,11-01-2021,87,0
+paper towel,2,11-02-2021,319,0
+toilet paper,1,11-03-2021,218,0
+keyboards,17,11-03-2021,73,0
+cleaner,3,11-04-2021,59,0
+light bulbs,5,11-04-2021,276,0
+office chair,7,11-04-2021,59,0
+plastic bags,4,11-05-2021,2929,0
+pens,8,11-05-2021,1015,0
+blank badges,10,11-05-2021,2726,0
+photo paper,18,11-05-2021,13384,0
+box cutters,6,11-06-2021,334,0
+soap,14,11-06-2021,247,0
+water bottles,16,11-06-2021,1073,0
+plastic wrap,19,11-06-2021,319,0
+produce bags,13,11-07-2021,305,0
+wrenches,15,11-07-2021,44,0
+meat trays,12,11-09-2021,4553,0
+scanner batt,11,11-11-2021,87,0
+paper towel,2,11-13-2021,319,0
+printer paper,9,11-13-2021,87,0
+toilet paper,1,11-15-2021,218,0
+light bulbs,5,11-15-2021,276,0
+keyboards,17,11-15-2021,73,0
+cleaner,3,11-16-2021,59,0
+plastic bags,4,11-16-2021,2929,0
+office chair,7,11-16-2021,59,0
+pens,8,11-16-2021,1015,0
+blank badges,10,11-16-2021,2726,0
+water bottles,16,11-16-2021,1073,0
+photo paper,18,11-16-2021,13384,0
+box cutters,6,11-17-2021,334,0
+soap,14,11-17-2021,247,0
+plastic wrap,19,11-17-2021,319,0
+produce bags,13,11-18-2021,305,0
+wrenches,15,11-19-2021,44,0
+meat trays,12,11-20-2021,4553,0
+scanner batt,11,11-23-2021,87,0
+paper towel,2,11-24-2021,319,0
+printer paper,9,11-24-2021,87,0
+toilet paper,1,11-25-2021,218,0
+light bulbs,5,11-27-2021,276,0
+pens,8,11-27-2021,1015,0
+blank badges,10,11-27-2021,2726,0
+keyboards,17,11-27-2021,73,0
+photo paper,18,11-27-2021,13384,0
+plastic bags,4,11-28-2021,3030,0
+water bottles,16,11-28-2021,1110,0
+plastic wrap,19,11-28-2021,330,0
+cleaner,3,11-29-2021,59,0
+box cutters,6,11-29-2021,334,0
+office chair,7,11-29-2021,59,0
+produce bags,13,11-29-2021,305,0
+soap,14,11-29-2021,247,0
+meat trays,12,12-01-2021,4553,0
+wrenches,15,12-01-2021,44,0
+scanner batt,11,12-03-2021,87,0
+paper towel,2,12-05-2021,330,0
+printer paper,9,12-05-2021,90,0
+toilet paper,1,12-06-2021,226,0
+light bulbs,5,12-07-2021,285,0
+pens,8,12-07-2021,1050,0
+blank badges,10,12-07-2021,2820,0
+photo paper,18,12-07-2021,13845,0
+plastic bags,4,12-08-2021,3030,0
+keyboards,17,12-08-2021,75,0
+box cutters,6,12-09-2021,345,0
+soap,14,12-09-2021,255,0
+water bottles,16,12-09-2021,1110,0
+plastic wrap,19,12-09-2021,330,0
+cleaner,3,12-10-2021,60,0
+office chair,7,12-10-2021,60,0
+produce bags,13,12-10-2021,315,0
+meat trays,12,12-11-2021,4710,0
+wrenches,15,12-12-2021,47,0
+scanner batt,11,12-14-2021,93,0
+paper towel,2,12-16-2021,341,0
+printer paper,9,12-16-2021,93,0
+toilet paper,1,12-17-2021,233,0
+light bulbs,5,12-18-2021,295,0
+pens,8,12-18-2021,1085,0
+blank badges,10,12-18-2021,2914,0
+photo paper,18,12-18-2021,14307,0
+plastic bags,4,12-19-2021,3232,0
+water bottles,16,12-19-2021,1184,0
+keyboards,17,12-19-2021,80,0
+plastic wrap,19,12-19-2021,352,0
+cleaner,3,12-20-2021,66,0
+box cutters,6,12-20-2021,380,0
+office chair,7,12-20-2021,66,0
+produce bags,13,12-20-2021,347,0
+soap,14,12-20-2021,281,0
+meat trays,12,12-21-2021,5181,0
+wrenches,15,12-23-2021,53,0
+paper towel,2,12-24-2021,396,0
+printer paper,9,12-24-2021,108,0
+scanner batt,11,12-24-2021,108,0
+toilet paper,1,12-25-2021,270,0
+light bulbs,5,12-26-2021,333,0
+pens,8,12-26-2021,1225,0
+blank badges,10,12-26-2021,3290,0
+photo paper,18,12-26-2021,16153,0
+plastic bags,4,12-27-2021,3636,0
+water bottles,16,12-27-2021,1332,0
+keyboards,17,12-27-2021,90,0
+plastic wrap,19,12-27-2021,396,0
+box cutters,6,12-28-2021,414,0
+produce bags,13,12-28-2021,378,0
+soap,14,12-28-2021,306,0
+cleaner,3,12-29-2021,72,0
+office chair,7,12-29-2021,72,0
+meat trays,12,12-30-2021,5652,0

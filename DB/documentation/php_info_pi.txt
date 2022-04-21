@@ -1,0 +1,9 @@
+https://pimylifeup.com/raspberry-pi-latest-php/
+php installation on pi
+https://pimylifeup.com/raspberry-pi-apache/
+getting apache installed
+need to figure out how to connect to the rest of the net - still working on this
+*******************************************
+side note - https://medium.com/@winnieliang/how-to-run-a-simple-html-css-javascript-application-on-heroku-4e664c541b0b
+this site talks about how to trick heroku to run html page
+*******************************************

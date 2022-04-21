@@ -1,0 +1,20 @@
+https://pynative.com/python-mysql-database-connection/
+installed a mysql connector for python to hopefully connect to the db on the pi
+pip install mysql-connector-python
+https://www.thepythoncode.com/article/connect-to-a-remote-mysql-server-in-python
+changed the bind-address to the public external ip for my network
+https://geekyboy.com/archives/629
+to save to a read only file 
+https://stackoverflow.com/questions/62564439/mysql-mariadb-server-raspberry-pi-remote-access
+helped with the connection
+https://pynative.com/python-mysql-select-query-to-fetch-data/
+fetching the sql data
+************************
+while the above is working, it may not be the best idea to keep port 3306 open. looking into creating a tunnel to the pi and accessing the data locally from the python program.
+https://networklessons.com/python/python-ssh
+not sure about this... will need to talk with Dr. Thompson about this. 
+https://www.webtrainingroom.com/python/excel-to-mysql-using-python
+pip install xlrd
+pip install xlwt
+pip install pandas
+these will help with the automation of excel -> Database, through python
