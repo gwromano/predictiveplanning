@@ -29,7 +29,8 @@ def makeOrder(request):
         #url = "https://raw.githubusercontent.com/maggieturner/Capstone/main/run.sh?token=GHSAT0AAAAAABTGWQ3K73MIRHTSPRXQWCDWYTBRGSA"
         #webbrowser.open_new(url)
         #subprocess.call(url)
-        subprocess.call('/Users/maggieturner/Documents/Github/Capstone/run.sh') #maggie path
+        #subprocess.call('/Users/maggieturner/Documents/Github/Capstone/run.sh') #maggie path
+        subprocess.call(['open', '-W', '-a', 'Terminal.app', 'python', '--args', 'test12.py'])
         #subprocess.call(r'C:\Users\georg\OneDrive\Documents\Visual Studio Projects\predictiveplanning\run.sh', shell=True) #george path
         #subprocess.Popen([r"/Users/maggieturner/Documents/Github/Capstone/run.sh", "https://raw.githubusercontent.com/maggieturner/Capstone/main/run.sh?token=GHSAT0AAAAAABTGWQ3LOSDTEW3D6EMPFEUCYTBQ2SA"])
     return render(request, "make-order.html")
