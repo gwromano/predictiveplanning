@@ -193,7 +193,7 @@
         <button type="submit" name="run_script">Run script</button>
       </form>-->
       
-      <form action="{% url 'run_sh' %}" method="POST">
+      <form action="{% url 'terminal' %}" method="POST">
         {% csrf_token %}
         <button type="submit">Start Order</button>
       </form>

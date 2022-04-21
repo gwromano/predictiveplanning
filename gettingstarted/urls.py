@@ -31,6 +31,6 @@ urlpatterns = [
                       name='make-order'),
     path("order-history/", TemplateView.as_view(template_name='order-history.html'),
                       name='order-history'),
-    
+    path("terminal/", hello.views.makeOrder, name='terminal'),
 
 ]
