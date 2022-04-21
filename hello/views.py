@@ -2,6 +2,7 @@
 import requests
 from django.shortcuts import redirect, render
 from django.http import HttpResponse, HttpResponseRedirect
+import subprocess
 
 from hello.test12 import runArray
 
@@ -16,12 +17,16 @@ def index(request):
     # if "makeOrder" in request.POST:
     #     #return HttpResponseRedirect(".")
     #     return render(request, "about-us.html")
-    if request.method == 'POST' and 'run_script' in request.POST:
-        runArray()
+    #if request.method == 'POST' and 'run_script' in request.POST:
+        #runArray()
         
     return render(request, "index.html")
 
-
+def makeOrder(request):
+    if request.POST:    
+        subprocess.call('/Users/maggieturner/Documents/Github/Capstone/run.sh')
+    return render(request, "make-order.html")
+    #return render(request, "about-us.html")
 
 def db(request):
 

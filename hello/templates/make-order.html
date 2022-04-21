@@ -162,11 +162,16 @@
       <a href="{% url 'make-order' %}" class="w3-button w3-sand w3-hover-pale-green link border">Start Order</a> 
       <br><br><br>
 
-      <form method="post">
+     <!----<form method="post">
         {% csrf_token %}
         <button type="submit" name="run_script">Run script</button>
-      </form>
+      </form>-->
       
+      <form action="{% url 'run_sh' %}" method="POST">
+        {% csrf_token %}
+        <button type="submit">Start Order</button>
+      </form>
+
       <!-- Links section 2 -->
       <!-- <div class="icons w3-padding">
         <a href="#" target="_blank"> 
