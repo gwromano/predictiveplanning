@@ -24,7 +24,8 @@ def index(request):
 
 def makeOrder(request):
     if request.POST:    
-        subprocess.call('/Users/maggieturner/Documents/Github/Capstone/run.sh')
+        #subprocess.call('/Users/maggieturner/Documents/Github/Capstone/run.sh') #maggie path
+        subprocess.call('C:\Users\georg\OneDrive\Documents\Visual Studio Projects\predictiveplanning\run.sh') #george path
     return render(request, "make-order.html")
     #return render(request, "about-us.html")
 
