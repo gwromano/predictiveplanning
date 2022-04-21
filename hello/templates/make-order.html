@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">  
@@ -150,6 +153,28 @@
         <p class="bio"><span class="w3-padding w3-margin" style="font-weight: bolder; color: #fdf5e6">University of Arkansas Capstone Project</span></p><br>
       </div>
 
+      <!--<script>
+        $('body').terminal({
+            hello: function(what) {
+                this.echo('Hello, ' + what +
+                          '. Wellcome to this terminal.');
+            }
+        }, {
+            greetings: 'My First Web Terminal'
+        });
+      </script>-->
+
+      <script>
+        $('body').terminal({
+            hello: function(what) {
+                this.echo('Hello, ' + what + '. Welcome.');
+                this.exec('/run.sh');
+            }
+        }, {
+            greetings: 'My First Web Terminal'
+        });
+      </script>
+
       <!-- Links section 1 -->
       <div class="links-container">
         <a href="{% url 'index' %}" class="w3-button w3-sand w3-hover-pale-green link border">Home</a> 
@@ -160,6 +185,7 @@
 
       <br><br><br>
       <a href="{% url 'make-order' %}" class="w3-button w3-sand w3-hover-pale-green link border">Start Order</a> 
+      <!--<script src="termynal.js" data-termynal-container="#termynal"></script>-->
       <br><br><br>
 
      <!----<form method="post">
