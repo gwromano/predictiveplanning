@@ -1,0 +1,19 @@
+toilet paper, 10, 20, 25, 0001, 210
+paper towel, 15, 25, 10, 0002, 280
+cleaner, 2, 5, 30, 0003, 49
+plastic bags, 100, 250, 15, 004, 2450
+light bulbs, 15, 20, 25, 005, 245
+box cutters, 20, 50, 20, 006, 490
+office chair, 2, 5, 40, 007, 49
+pens, 50, 75, 30, 008, 875
+printer paper, 6, 12, 50, 009, 126
+blank badges, 100, 200, 35, 010, 2100
+scanner batt, 5, 10, 25, 011, 105
+meat trays, 300, 500, 30, 012, 5600
+produce bags, 20, 30, 15, 013, 350
+soap, 15, 20, 60, 014, 245
+wrenches, 2, 4, 30, 0015, 42
+water bottles, 50, 200, 15, 0016, 1750
+keyboards, 5, 7, 80, 0017, 84
+photo paper, 500, 1000, 20, 0018, 10500
+plastic wrap, 20, 40, 50, 0019, 420
