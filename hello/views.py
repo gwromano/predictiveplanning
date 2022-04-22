@@ -4,12 +4,15 @@ from django.shortcuts import redirect, render
 from django.http import HttpResponse, HttpResponseRedirect
 import subprocess
 import webbrowser
+import os
   
 from hello.test12 import runArray
 
 from .models import Greeting
 
 #url = "https://raw.githubusercontent.com/gwromano/predictiveplanning/main/run.sh?token=GHSAT0AAAAAABTGWQ3KHPYS6IEIBLFQ67REYTBOZNA"
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def index(request):
     #return HttpResponse('Hello from Python!')
@@ -38,6 +41,11 @@ def makeOrder(request):
         #subprocess.Popen([r"/Users/maggieturner/Documents/Github/Capstone/run.sh", "https://raw.githubusercontent.com/maggieturner/Capstone/main/run.sh?token=GHSAT0AAAAAABTGWQ3LOSDTEW3D6EMPFEUCYTBQ2SA"])
     return render(request, "make-order.html")
     #return render(request, "about-us.html")
+
+def orderHistory(request):
+    if request.POST:   
+        os.startfile(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_blank badges_.csv.pdf")  
+    return render(request, "order-history.html")
 
 def db(request):
 
