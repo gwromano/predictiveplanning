@@ -31,7 +31,7 @@ def makeOrder(request):
         #subprocess.call(url)
         #subprocess.call('/Users/maggieturner/Documents/Github/Capstone/run.sh') #maggie path
         #subprocess.call(['open', '-W', '-a', 'Terminal.app', 'python', '--args', 'test12.py'])
-        subprocess.call('start /wait run.sh', shell=True)
+        subprocess.call('start /wait run.sh', shell=True) #george
         #subprocess.run(['run.sh'])
         #subprocess.run(['python', 'data_gen_mk2.py'])
         #subprocess.call(r'C:\Users\georg\OneDrive\Documents\Visual Studio Projects\predictiveplanning\run.sh', shell=True) #george path
