@@ -46,7 +46,7 @@ button:hover {
 
 /* Center the image and position the close button */
  .image {
-          background-image: url("https://i.imgur.com/CGeB02F.png");
+          background-image: url("../static/walmart.png");
           background-size: cover;
           background-repeat: no-repeat;
           background-position: center; 
@@ -246,15 +246,26 @@ button:hover {
         <p class="bio"><span class="w3-padding w3-margin" style="font-weight: bolder; color: #fdf5e6">University of Arkansas Capstone Project</span></p><br>
       </div>
       
+
 <!-- Links section 1 -->
 <div class="links-container">
-
-<a href="{% url 'login' %}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Login</a><br><br>
+  
+  {% block content %}
+  {% if user.is_authenticated %}
+    Hi {{ user.username }}!
+    <p><a href="{% url 'logout' %}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Log Out</a></p>
+  {% else %}
+    <p>You are not logged in</p>
+    <a href="{% url 'login' %}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Login</a>
+  {% endif %}
+  {% endblock %}
+  
+<br><br>
         <a href="{% url 'make-order' %}" class="w3-button w3-sand w3-hover-pale-green link border">Generate Data</a>        
         <a href="{% url 'order-history' %}" class="w3-button w3-sand w3-hover-pale-green link border">Order History</a>
         <a href="{% url 'about-us' %}" class="w3-button w3-sand w3-hover-pale-green link border">About Us</a>
         
-  <button onclick="document.getElementById('id01').style.display='block'" href="%url 'login'%}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Login</button> <br><br>
+  <!-- <button onclick="document.getElementById('id01').style.display='block'" href="%url 'login'%}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Login</button> <br><br> -->
 
 <div id="id01" class="modal">
   
