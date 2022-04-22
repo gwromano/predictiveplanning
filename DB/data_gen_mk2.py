@@ -13,6 +13,8 @@ import pandas as pd
 import glob
 import csvsplitter
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 class item:
     def __init__(self, name, min, max, deviation, id, ival):
         self.name = name
@@ -171,7 +173,8 @@ def execute():
     to_splitter = mergeXls(folder)  
     print(to_splitter) 
     csvsplitter.seperate(to_splitter)
-    os.chdir(r'C:\Users\georg\OneDrive\Documents\Visual Studio Projects\predictiveplanning\ML') #os.chdir("..\ML")
+    #os.chdir(r'C:\Users\georg\OneDrive\Documents\Visual Studio Projects\predictiveplanning\ML') #os.chdir("..\ML")
+    os.chdir(BASE_DIR + "\ML")
     os.system("python MultiItemML.py")
 
 def save_xls(self,year,file,folder):   

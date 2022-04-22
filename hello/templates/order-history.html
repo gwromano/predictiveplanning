@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">  
-    <title>Links website</title>
+    <title>Orders</title>
     <style>
 
       body {
@@ -159,8 +159,11 @@
       </div>
 
       <br><br><br>
-      <a href="{% url 'order-history' %}" class="w3-button w3-sand w3-hover-pale-green link border">OrderHistory</a> 
-      
+      <form action="{% url 'pdfs' %}" method="POST">
+        {% csrf_token %}
+      <!-- <a href="{% url 'pdfs' %}" class="w3-button w3-sand w3-hover-pale-green link border">PDF</a>  -->
+      <button type="submit" class="w3-button w3-sand w3-hover-pale-green link border" style="height:60px;width:500px;font-size:30px" >PDFS</button>
+      </form>
       <!-- Links section 2 -->
       <!-- <div class="icons w3-padding">
         <a href="#" target="_blank"> 
