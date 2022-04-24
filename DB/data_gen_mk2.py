@@ -172,6 +172,7 @@ def execute():
     to_splitter = mergeXls(folder)   
     csvsplitter.seperate(to_splitter)
     #os.chdir("..\ML")
+    os.chdir(BASE_DIR + "\ML")
     #os.system("python MultiItemML.py")
 
 def save_xls(self,year,file,folder):   
