@@ -48,6 +48,40 @@ def orderHistory(request):
         webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_blank badges_.csv.pdf") 
     elif 'pdf2' in request.POST: 
         webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_box cutters_.csv.pdf")  
+    elif 'pdf3' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_cleaner_.csv.pdf")  
+    elif 'pdf4' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_keyboards_.csv.pdf") 
+    elif 'pdf5' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_light bulbs_.csv.pdf")  
+    elif 'pdf6' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_meat trays_.csv.pdf")  
+    elif 'pdf7' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_office chair_.csv.pdf")  
+    elif 'pdf8' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_paper towel_.csv.pdf")  
+    elif 'pdf9' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_pens_.csv.pdf")  
+    elif 'pdf10' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_photo paper_.csv.pdf") 
+    elif 'pdf11' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_plastic bags_.csv.pdf")   
+    elif 'pdf12' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_plastic wrap_.csv.pdf")  
+    elif 'pdf13' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_printer paper_.csv.pdf")  
+    elif 'pdf14' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_produce bags_.csv.pdf")  
+    elif 'pdf15' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_scanner batt_.csv.pdf")  
+    elif 'pdf16' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_soap_.csv.pdf")  
+    elif 'pdf17' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_toilet paper_.csv.pdf") 
+    elif 'pdf18' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_water bottles_.csv.pdf")   
+    elif 'pdf19' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_wrenches_.csv.pdf")  
         #for file in glob.glob("ML\Three Pass Graphs\*.pdf"):
             #os.startfile(file)
         #webbrowser.open()

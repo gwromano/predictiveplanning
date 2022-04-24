@@ -138,8 +138,8 @@
 
     </style>
     <script src="https://unpkg.com/feather-icons"></script>
-  </head>
-  <body>
+    </head>
+    <body>
     <!-- Content container -->
     <div class="container">
 
@@ -153,53 +153,54 @@
       <!-- Links section 1 -->
       <div class="links-container">
         <a href="{% url 'index' %}" class="w3-button w3-sand w3-hover-pale-green link border">Home</a> 
-        <!-- <a href="#" name="makeOrder" class="w3-button w3-sand w3-hover-pale-green link border" target="_blank">Make an order</a>
-        <a href="#" class="w3-button w3-sand w3-hover-pale-green link border" target="_blank">Order history</a>
-        <a href="#" class="w3-button w3-sand w3-hover-pale-green link border" target="_blank">About us</a> -->
       </div>
 
       <br><br><br>
+      <div class="links-container">
       <form action="{% url 'pdf' %}" method="POST">
         {% csrf_token %}
-      <button type="submit" name="pdf1" class="w3-button w3-sand w3-hover-pale-green link border" style="height:60px;width:500px;font-size:30px" >Blank badges</button>
+      <button type="submit" name="pdf1" class="w3-button w3-sand w3-hover-pale-green link border" >blank badges.pdf</button>
       <br><br>
-      <button type="submit" name="pdf2" class="w3-button w3-sand w3-hover-pale-green link border" style="height:60px;width:500px;font-size:30px" >Box cutters</button>
-    
-      </form>
+      <button type="submit" name="pdf2" class="w3-button w3-sand w3-hover-pale-green link border" >box cutters.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf3" class="w3-button w3-sand w3-hover-pale-green link border" >cleaner.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf4" class="w3-button w3-sand w3-hover-pale-green link border" >keyboards.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf5" class="w3-button w3-sand w3-hover-pale-green link border" >light bulbs.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf6" class="w3-button w3-sand w3-hover-pale-green link border" >meat trays.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf7" class="w3-button w3-sand w3-hover-pale-green link border" >office chairs.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf8" class="w3-button w3-sand w3-hover-pale-green link border" >paper towels.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf9" class="w3-button w3-sand w3-hover-pale-green link border" >pens.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf10" class="w3-button w3-sand w3-hover-pale-green link border" >photo paper.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf11" class="w3-button w3-sand w3-hover-pale-green link border" >plastic bags.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf12" class="w3-button w3-sand w3-hover-pale-green link border" >plastic wrap.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf13" class="w3-button w3-sand w3-hover-pale-green link border" >printer paper.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf14" class="w3-button w3-sand w3-hover-pale-green link border" >produce bags.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf15" class="w3-button w3-sand w3-hover-pale-green link border" >scanner battery.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf16" class="w3-button w3-sand w3-hover-pale-green link border" >soap.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf17" class="w3-button w3-sand w3-hover-pale-green link border" >toilet paper.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf18" class="w3-button w3-sand w3-hover-pale-green link border" >water bottles.pdf</button>
+      <br><br>
+      <button type="submit" name="pdf19" class="w3-button w3-sand w3-hover-pale-green link border" >wrenches.pdf</button>
+      <br><br>
+    </form>
+    </div>
+    </div>
 
-      <br>
-
-      <!-- Links section 2 -->
-      <!-- <div class="icons w3-padding">
-        <a href="#" target="_blank"> 
-          <i data-feather="facebook"></i>
-        </a>
-        <a href="#" target="_blank">
-          <i data-feather="twitter"></i>
-        </a>
-        <a href="#" target="_blank">
-          <i data-feather="linkedin"></i>
-        </a>
-        <a href="#" target="_blank">
-          <i data-feather="github"></i>
-        </a>
-      </div><br>
-      
-        <div class="contact">
-          <p class=""><span class="w3-padding w3-margin" style="font-weight: bolder; color: #fdf5e6">CONTACT US</span></p>
-          <div class="info">
-            <a href = "tel: +49123456789"><span><i data-feather="phone"></i> +49123456789</span></a>
-            <a href = "mailto: email@company.com"><span><i data-feather="mail"></i> email@company.com</span></a>
-          </div>
-        </div><br>
-        <div class="contact">
-          <p class=""><span class="w3-padding w3-margin" style="font-weight: bolder; color: #fdf5e6">FIND US</span></p>
-          <iframe src="https://maps.google.com/maps?q=Berlin,+Njemačka&output=embed" width="100%" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
-        </div>
-
-      </div>
-
-    </div> -->
     <script>
       feather.replace()
     </script>
