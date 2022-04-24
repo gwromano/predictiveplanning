@@ -5,6 +5,7 @@ from django.http import HttpResponse, HttpResponseRedirect
 import subprocess
 import webbrowser
 import os
+import glob
   
 from hello.test12 import runArray
 
@@ -43,8 +44,10 @@ def makeOrder(request):
     #return render(request, "about-us.html")
 
 def orderHistory(request):
-    if request.POST:   
-        os.startfile(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_blank badges_.csv.pdf")  
+    if request.POST:
+        for file in glob.glob("ML\Three Pass Graphs\*.pdf"):
+            os.startfile(file)
+        #os.startfile(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_blank badges_.csv.pdf")  
     return render(request, "order-history.html")
 
 def db(request):
