@@ -152,6 +152,16 @@ USE_TZ = True
 
 # MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/media/'
 
+# amazon s3 settings
+AWS_ACCESS_KEY_ID = 'AKIASVQ2RXGK3KPWDYFF'
+AWS_SECRET_ACCESS_KEY = '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'
+AWS_STORAGE_BUCKET_NAME = 'predplanning2'
+AWS_S3_SIGNATURE_VERSION = 's3v4'
+AWS_S3_REGION_NAME = 'us-east-1'
+AWS_S3_FILE_OVERWRITE = False
+AWS_DEFAULT_ACL = None
+AWS_S3_VERIFY = True
+DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage' 
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
