@@ -38,7 +38,7 @@ urlpatterns = [
     path("terminal/", hello.views.makeOrder, name='terminal'),
     path("pdfs/", hello.views.orderHistory, name='pdf'),
     path('api/', include('rest_framework.urls')),  # new
-    path('', include('uploader.urls')),  # new
+    path('', include('hello.urls')),  # new
 
 ]
 
