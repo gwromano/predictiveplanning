@@ -44,11 +44,15 @@ def makeOrder(request):
     #return render(request, "about-us.html")
 
 def orderHistory(request):
-    if request.POST:
-        for file in glob.glob("ML\Three Pass Graphs\*.pdf"):
+    if request.POST and 'pdf1' in request.POST:
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_blank badges_.csv.pdf") 
+    elif 'pdf2' in request.POST: 
+        webbrowser.open(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_box cutters_.csv.pdf")  
+        #for file in glob.glob("ML\Three Pass Graphs\*.pdf"):
             #os.startfile(file)
-            webbrowser.open(file)
-        #os.startfile(BASE_DIR + "\ML" + "\Three Pass Graphs" + "\Item_blank badges_.csv.pdf")  
+        #webbrowser.open()
+
+
     return render(request, "order-history.html")
 
 def db(request):

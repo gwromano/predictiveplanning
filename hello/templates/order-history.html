@@ -159,11 +159,16 @@
       </div>
 
       <br><br><br>
-      <form action="{% url 'pdfs' %}" method="POST">
+      <form action="{% url 'pdf' %}" method="POST">
         {% csrf_token %}
-      <!-- <a href="{% url 'pdfs' %}" class="w3-button w3-sand w3-hover-pale-green link border">PDF</a>  -->
-      <button type="submit" class="w3-button w3-sand w3-hover-pale-green link border" style="height:60px;width:500px;font-size:30px" >PDFS</button>
+      <button type="submit" name="pdf1" class="w3-button w3-sand w3-hover-pale-green link border" style="height:60px;width:500px;font-size:30px" >Blank badges</button>
+      <br><br>
+      <button type="submit" name="pdf2" class="w3-button w3-sand w3-hover-pale-green link border" style="height:60px;width:500px;font-size:30px" >Box cutters</button>
+    
       </form>
+
+      <br>
+
       <!-- Links section 2 -->
       <!-- <div class="icons w3-padding">
         <a href="#" target="_blank"> 
