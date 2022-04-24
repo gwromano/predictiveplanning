@@ -1,5 +1,5 @@
 #The purpose of this program will be to create simulated data for our machine learning. 
-from heapq import merge
+#from heapq import merge
 import random
 import requests
 import os
@@ -8,7 +8,6 @@ import math
 import weather_input
 import copy
 from xlwt import Workbook
-import csv
 import pandas as pd
 import glob
 import csvsplitter
@@ -74,10 +73,10 @@ def print_obj(self):
     print(self.name, self.min, self.max, self.dev, self.id, self.init_val)
 
 def decrease_stock(self, item_use, day):  
-    used =  math.floor(item_use * self.weekend_mod)
+    used =  math.ceil(item_use * self.weekend_mod)
     self.init_val -= used
     if self.init_val <= 0 and self.shipped == False:
-        emergency_order(self, day)        
+        emergency_order(self)        
     if self.init_val < (self.store_avg * self.shipping_time) and self.shipped == False:       
         self.shipped = True 
         self.orders.append([day])                 
@@ -102,7 +101,7 @@ def weekend_check(self, day):
     else:
         self.weekend_mod = 1
 
-def emergency_order(self, day):    
+def emergency_order(self):    
     self.shipped = True
     self.init_val = 0
     self.shipping_time = 1
@@ -170,12 +169,10 @@ def execute():
     order_list.sort(key=lambda x:x.day)
     apply_order_num()
     xlsToCsv(save_xls(order_list,'2021',file,folder))
-    to_splitter = mergeXls(folder)  
-    print(to_splitter) 
+    to_splitter = mergeXls(folder)   
     csvsplitter.seperate(to_splitter)
-    #os.chdir(r'C:\Users\georg\OneDrive\Documents\Visual Studio Projects\predictiveplanning\ML') #os.chdir("..\ML")
-    os.chdir(BASE_DIR + "\ML")
-    os.system("python MultiItemML.py")
+    #os.chdir("..\ML")
+    #os.system("python MultiItemML.py")
 
 def save_xls(self,year,file,folder):   
     global xlsPos
@@ -216,26 +213,11 @@ def mergeXls(folder):
 def makeFileName(folder):  
     return os.getcwd()+"\\"+folder+"\items-ordered-"+ timeDate()
 
-#might change this to an xls -> csv converter
-# to be removed 
-def save_csv(self):   
-    header = ['Item','Item Number','Day','Quantity','Order Number']
-    now = datetime.now() 
-    place = os.getcwd()+"\output-data-gen\items-ordered-"+ now.strftime("%H-%M-%S")+".csv"
-    with open(place, 'w', encoding='UTF8', newline='') as f:
-        writer = csv.writer(f)
-        # write the header
-        writer.writerow(header)
-        # write multiple rows
-        for i in range(len(self)):
-            writer.writerows([self[i].item_name,self[i].item_num, self[i].day, self[i].qty, self[i].order_num])
-
-
 def find_avg(self, day, use):
     if day < two_weeks:
-        self.rolling_avg.append(use)
+        self.rolling_avg.append(use * self.weekend_mod)
     else:
-        self.rolling_avg.append(use)
+        self.rolling_avg.append(use * self.weekend_mod)
         self.rolling_avg.pop(0) 
         avg = 0
         for i in range(len(self.rolling_avg)):
