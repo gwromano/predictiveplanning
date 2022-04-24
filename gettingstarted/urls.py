@@ -4,6 +4,7 @@ from django.views.generic import TemplateView
 
 from django.contrib import admin
 
+# new
 from django.conf import settings
 from django.conf.urls.static import static
 
@@ -36,6 +37,8 @@ urlpatterns = [
                       name='order-history'),
     path("terminal/", hello.views.makeOrder, name='terminal'),
     path("pdfs/", hello.views.orderHistory, name='pdf'),
+    path('api/', include('rest_framework.urls')),  # new
+    path('', include('uploader.urls')),  # new
 
 ]
 
