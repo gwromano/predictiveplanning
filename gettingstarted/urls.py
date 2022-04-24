@@ -4,6 +4,10 @@ from django.views.generic import TemplateView
 
 from django.contrib import admin
 
+# new
+from django.conf import settings
+from django.conf.urls.static import static
+
 admin.autodiscover()
 
 import hello.views
@@ -33,5 +37,11 @@ urlpatterns = [
                       name='order-history'),
     path("terminal/", hello.views.makeOrder, name='terminal'),
     path("pdfs/", hello.views.orderHistory, name='pdf'),
+    path('api/', include('rest_framework.urls')),  # new
+    path('', include('hello.urls')),  # new
 
 ]
+
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+    urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)

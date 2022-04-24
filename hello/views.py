@@ -7,6 +7,11 @@ import webbrowser
 import os
 import glob
   
+# new
+from rest_framework import viewsets, parsers
+from .models import DropBox
+from .serializers import DropBoxSerializer
+
 from hello.test12 import runArray
 
 from .models import Greeting
@@ -97,3 +102,11 @@ def db(request):
     greetings = Greeting.objects.all()
 
     return render(request, "db.html", {"greetings": greetings})
+
+# new
+class DropBoxViewset(viewsets.ModelViewSet):
+ 
+    queryset = DropBox.objects.all()
+    serializer_class = DropBoxSerializer
+    parser_classes = [parsers.MultiPartParser, parsers.FormParser]
+    http_method_names = ['get', 'post', 'patch', 'delete']
