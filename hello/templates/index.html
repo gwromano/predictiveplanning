@@ -255,7 +255,7 @@ button:hover {
     <p class="w3-padding w3-margin"style="font-weight: bolder; color: #fdf5e6"> Hi,  {{ user.username }}! </p>
     <p><a href="{% url 'logout' %}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Log Out</a></p>
   {% else %}
-    <p>You are not logged in</p>
+    <p style="color:white;">You are not logged in</p>
     <a href="{% url 'login' %}" class="w3-button w3-sand w3-hover-pale-green link border" style="height:50px;width:200px">Login</a>
   {% endif %}
   {% endblock %}
