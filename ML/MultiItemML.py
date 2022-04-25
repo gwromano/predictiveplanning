@@ -19,10 +19,13 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error as mse
 import time
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 start = time.time()
 # Loading csv filenames into an array
 ml_dir = os.getcwd()
-os.chdir('..\\..\\documentation\\DB\\individual_csv')
+#os.chdir('..\\..\\documentation\\DB\\individual_csv')
+os.chdir(BASE_DIR + '\DB' + '\individual_csv')
 db_dir = os.getcwd()
 csv_filename = sorted(str(item) for item in os.listdir('.'))
 
