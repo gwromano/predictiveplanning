@@ -125,7 +125,7 @@ for i in range(len(csv_filename)):
     cp3 = ModelCheckpoint('model_' + csv_filename[i] + '/', monitor='val_root_mean_squared_error', save_best_only=True)
     model3.compile(loss=MeanSquaredError(), optimizer=Adam(learning_rate=0.0001), metrics=[RootMeanSquaredError()])
 
-    model3.fit(X2_train, y2_train, validation_data=(X2_val, y2_val), epochs=1000, callbacks=[cp3])
+    model3.fit(X2_train, y2_train, validation_data=(X2_val, y2_val), epochs=10, callbacks=[cp3])
 
     plot_predictions1(model3, X2_test, y2_test, cp3)
     end = time.time()
