@@ -39,7 +39,8 @@ urlpatterns = [
     path("pdfs/", hello.views.orderHistory, name='pdf'),
     path('api/', include('rest_framework.urls')),  # new
     path('', include('hello.urls')),  # new
-
+    path("download/", TemplateView.as_view(template_name='download.html'),
+                      name='download'),
 ]
 
 if settings.DEBUG:
