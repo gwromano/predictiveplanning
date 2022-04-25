@@ -16,6 +16,8 @@ import os
 #from decouple import gettingstarted
 
 import gettingstarted
+import boto3
+from botocore.exceptions import NoCredentialsError
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -162,6 +164,26 @@ AWS_S3_FILE_OVERWRITE = False
 AWS_DEFAULT_ACL = None
 AWS_S3_VERIFY = True
 DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage' 
+
+# uploading
+# def upload_to_aws(local_file, bucket, s3_file):
+#     s3 = boto3.client('s3', aws_access_key_id='AKIASVQ2RXGK3KPWDYFF',
+#                       aws_secret_access_key='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')
+
+#     try:
+#         s3.upload_file(local_file, bucket, s3_file)
+#         print("Upload Successful")
+#         return True
+#     except FileNotFoundError:
+#         print("The file was not found")
+#         return False
+#     except NoCredentialsError:
+#         print("Credentials not available")
+#         return False
+
+
+# uploaded = upload_to_aws('local_file', 'bucket_name', 's3_file_name')
+
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
