@@ -157,6 +157,7 @@
 
       <br><br><br>
       <div class="links-container">
+      <div class="row">
       <form action="{% url 'pdf' %}" method="POST">
         {% csrf_token %}
       <button type="submit" name="pdf1" class="w3-button w3-sand w3-hover-pale-green link border" >blank badges.pdf</button>
@@ -200,7 +201,7 @@
     </form>
     </div>
     </div>
-
+    </div>
     <script>
       feather.replace()
     </script>
