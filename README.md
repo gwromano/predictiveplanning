@@ -17,6 +17,13 @@ Description:
 
 The goal for our project is to create an automatic reordering system that can predict what items a store needs before they need it. In doing so we can aim to reduce waiting times for needed equipment and cutting costs by avoiding costly shipping fees.
 
+----------------------------------------
+
+DB folder - contains data generator code
+ML folder - machine learning code
+
+----------------------------------------
+
 TO DOWNLOAD AND OPERATE (WINDOWS ONLY):
 1. Clone https://github.com/gwromano/predictiveplanning
 2. Navigate to your command prompt
