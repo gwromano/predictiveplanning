@@ -27,7 +27,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "tWR6D;Lnjporc%$~M!hOkjKfZ!<m?t&_<fyOT$T)^mL-^pR;%[mSC|UhFxN"
+SECRET_KEY = "***************"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -155,8 +155,8 @@ USE_TZ = True
 # MEDIA_URL = f'https://{AWS_S3_CUSTOM_DOMAIN}/media/'
 
 # amazon s3 settings
-AWS_ACCESS_KEY_ID = 'AKIASVQ2RXGK3KPWDYFF'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = '**********'
+AWS_SECRET_ACCESS_KEY = 'k**********'
 AWS_STORAGE_BUCKET_NAME = 'predplanning2'
 AWS_S3_SIGNATURE_VERSION = 's3v4'
 AWS_S3_REGION_NAME = 'us-east-1'
@@ -167,8 +167,8 @@ DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
 # uploading
 # def upload_to_aws(local_file, bucket, s3_file):
-#     s3 = boto3.client('s3', aws_access_key_id='AKIASVQ2RXGK3KPWDYFF',
-#                       aws_secret_access_key='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')
+#     s3 = boto3.client('s3', aws_access_key_id='********',
+#                       aws_secret_access_key='*******')
 
 #     try:
 #         s3.upload_file(local_file, bucket, s3_file)
